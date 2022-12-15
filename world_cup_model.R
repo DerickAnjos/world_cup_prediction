@@ -69,11 +69,16 @@ zWald_wc_model
 # Betas p-values
 round((pnorm(abs(zWald_wc_model), lower.tail = F) * 2), 4)
 
+# Some variables are not statistically significant. Below, the stepwise method
+# will be performed to remove these variables from the model
+
+wc_model_step <- step(object = wc_model, 
+                k = qchisq(p = .05, df = 1, lower.tail = F))
 
 # Model effectiveness - Train Data ---------------------------------------------
 
 # Adding results from the model to the train dataset 
-wc_train$prediction <- predict(wc_model, newdata = wc_train, 
+wc_train$prediction <- predict(wc_model_step, newdata = wc_train, 
                                         type = "class")
 
 wc_train %>%
@@ -103,7 +108,7 @@ accuracy_train
 # Model effectiveness - Test Data ----------------------------------------------
 
 # Adding results from the model to the train dataset 
-wc_test$prediction <- predict(wc_model, newdata = wc_test, 
+wc_test$prediction <- predict(wc_model_step, newdata = wc_test, 
                                type = "class")
 
 wc_test %>%
@@ -130,39 +135,3 @@ accuracy <- (round((sum(diag(table(winner, prediction))) /
                             sum(table(winner, prediction))), 2))
 
 accuracy
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-step_wc <- step(object = wc_model, 
-                        k = qchisq(p = .05, df = 1, lower.tail = F))
-
-
-
-
-
-world_cup$prediction <- predict(step_wc, newdata = world_cup, 
-                                type = "class")
-logLik(step_wc)
-
-# Qui-square
-Qui2(step_wc)
-
-# Z-wald statistic  
-zWald_wc_model <- (summary(step_wc)$coefficients / 
-                     summary(step_wc)$standard.errors)
-
-zWald_wc_model
-
-# Betas p-values
-round((pnorm(abs(zWald_wc_model), lower.tail = F) * 2), 4)

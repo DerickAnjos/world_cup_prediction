@@ -1,0 +1,110 @@
+"Nationality";"Position";"Player";"Club";"Age";"Caps";"Overall"
+"Ecuador";"Goalkeeper";"hernan galindez";"aucas";35;12;NA
+"Ecuador";"Defender";"felix torres";"santos laguna";25;17;NA
+"Ecuador";"Defender";"robert arboleda";"sao paulo";31;33;NA
+"Ecuador";"Midfielder";"ayrton preciado";"santos laguna";28;27;NA
+"Ecuador";"Midfielder";"romario ibarra";"pachuca";28;25;NA
+"Ecuador";"Forward";"michael estrada";"cruz azul";26;36;NA
+"Ecuador";"Midfielder";"angel mena";"leon";34;46;NA
+"Ecuador";"Goalkeeper";"alexander dominguez";"ldu quito";35;68;NA
+"Qatar";"Defender";"ro-ro";"al-sadd";32;80;NA
+"Qatar";"Midfielder";"naif al-hadhrami";"al-rayyan";21;1;NA
+"Qatar";"Midfielder";"jassem gaber";"al-arabi";20;0;NA
+"Qatar";"Midfielder";"mostafa meshaal";"al-sadd";21;1;NA
+"Senegal";"Defender";"moustapha name";"pafos";27;6;NA
+"IR Iran";"Goalkeeper";"alireza beiranvand";"persepolis";30;52;NA
+"IR Iran";"Defender";"shojae khalilzadeh";"al-ahli doha";33;25;NA
+"IR Iran";"Midfielder";"saeid ezatolahi";"vejle";26;47;NA
+"IR Iran";"Defender";"morteza pouraliganji";"persepolis";30;46;NA
+"IR Iran";"Forward";"karim ansarifard";"omonia";32;94;NA
+"IR Iran";"Midfielder";"vahid amiri";"persepolis";34;68;NA
+"IR Iran";"Goalkeeper";"payam niazmand";"sepahan";27;1;NA
+"IR Iran";"Defender";"hossein kanaanizadegan";"al-ahli doha";28;35;NA
+"IR Iran";"Defender";"rouzbeh cheshmi";"esteghlal";29;19;NA
+"IR Iran";"Midfielder";"mehdi torabi";"persepolis";28;36;NA
+"IR Iran";"Midfielder";"ahmad nourollahi";"shabab al-ahli";29;25;NA
+"IR Iran";"Defender";"ramin rezaeian";"sepahan";32;46;NA
+"IR Iran";"Goalkeeper";"hossein hosseini";"esteghlal";30;6;NA
+"IR Iran";"Defender";"abolfazl jalali";"esteghlal";24;3;NA
+"Mexico";"Defender";"nestor araujo";"america";31;63;NA
+"Mexico";"Midfielder";"luis romo";"monterrey";27;27;NA
+"Mexico";"Forward";"rogelio funes mori";"monterrey";31;16;NA
+"Mexico";"Midfielder";"luis chavez";"pachuca";26;9;NA
+"Mexico";"Forward";"roberto alvarado";"guadalajara";24;31;NA
+"Saudi Arabia";"Goalkeeper";"mohammed al-rubaie";"al-ahli";25;7;NA
+"Saudi Arabia";"Defender";"ali al-bulaihi";"al-hilal";32;37;NA
+"Saudi Arabia";"Defender";"mohammed al-breik";"al-hilal";30;40;NA
+"Saudi Arabia";"Forward";"firas al-buraikan";"al-fateh";22;26;NA
+"Saudi Arabia";"Midfielder";"abdullah otayf";"al-hilal";30;45;NA
+"Saudi Arabia";"Midfielder";"sami al-najei";"al-nassr";25;17;NA
+"Saudi Arabia";"Defender";"hassan al-tambakti";"al-shabab";23;19;NA
+"Saudi Arabia";"Forward";"abdulrahman al-aboud";"al-ittihad";27;3;NA
+"Saudi Arabia";"Midfielder";"mohamed kanno";"al-hilal";28;38;NA
+"Australia";"Forward";"jamie maclaren";"melbourne city";29;26;NA
+"Denmark";"Goalkeeper";"frederik ronnow";"union berlin";30;8;NA
+"Tunisia";"Goalkeeper";"aymen mathlouthi";"etoile du sahel";38;73;NA
+"Tunisia";"Defender";"bilel ifa";"kuwait sc";32;37;NA
+"Tunisia";"Defender";"yassine meriah";"esperance de tunis";29;61;NA
+"Tunisia";"Midfielder";"nader ghandri";"club africain";27;8;NA
+"Tunisia";"Forward";"wahbi khazri";"montpellier";31;72;NA
+"Tunisia";"Forward";"taha yassine khenissi";"kuwait sc";30;48;NA
+"Tunisia";"Defender";"ali maaloul";"al ahly";32;83;NA
+"Tunisia";"Midfielder";"ferjani sassi";"al-duhail";30;78;NA
+"Tunisia";"Midfielder";"mohamed ali ben romdhane";"esperance de tunis";23;23;NA
+"Tunisia";"Goalkeeper";"aymen dahmen";"cs sfaxien";25;5;NA
+"Tunisia";"Midfielder";"ghailene chaalali";"esperance de tunis";28;31;NA
+"Tunisia";"Forward";"seifeddine jaziri";"zamalek";29;29;NA
+"Tunisia";"Defender";"wajdi kechrida";"atromitos";27;19;NA
+"Tunisia";"Goalkeeper";"bechir ben said";"us monastir";29;10;NA
+"Tunisia";"Goalkeeper";"mouez hassen";"club africain";27;20;NA
+"Costa Rica";"Midfielder";"daniel chacon";"cartagines";21;8;NA
+"Costa Rica";"Defender";"juan pablo vargas";"millonarios";27;12;NA
+"Costa Rica";"Defender";"keysher fuller";"herediano";28;31;NA
+"Costa Rica";"Midfielder";"celso borges";"alajuelense";34;155;NA
+"Costa Rica";"Defender";"oscar duarte";"al-wehda";33;71;NA
+"Costa Rica";"Forward";"anthony contreras";"herediano";22;9;NA
+"Costa Rica";"Midfielder";"bryan ruiz";"alajuelense";37;146;NA
+"Costa Rica";"Forward";"johan venegas";"alajuelense";33;82;NA
+"Costa Rica";"Forward";"joel campbell";"leon";30;119;NA
+"Costa Rica";"Midfielder";"gerson torres";"herediano";25;13;NA
+"Costa Rica";"Midfielder";"youstin salas";"saprissa";26;4;NA
+"Costa Rica";"Defender";"carlos martinez";"san carlos";23;7;NA
+"Costa Rica";"Midfielder";"yeltsin tejeda";"herediano";30;73;NA
+"Costa Rica";"Goalkeeper";"esteban alvarado";"herediano";33;25;NA
+"Costa Rica";"Defender";"kendall waston";"saprissa";34;63;NA
+"Costa Rica";"Midfielder";"brandon aguilera";"guanacasteca";19;4;NA
+"Costa Rica";"Midfielder";"douglas lopez";"herediano";24;3;NA
+"Costa Rica";"Midfielder";"roan wilson";"municipal grecia";20;3;NA
+"Costa Rica";"Midfielder";"anthony hernandez";"puntarenas";21;3;NA
+"Costa Rica";"Midfielder";"alvaro zamora";"saprissa";20;3;NA
+"Japan";"Defender";"miki yamane";"kawasaki frontale";28;15;NA
+"Japan";"Defender";"shogo taniguchi";"kawasaki frontale";31;14;NA
+"Japan";"Defender";"yuto nagatomo";"fc tokyo";36;138;NA
+"Japan";"Goalkeeper";"shuichi gonda";"shimizu s-pulse";33;34;NA
+"Japan";"Defender";"hiroki sakai";"urawa red diamonds";32;72;NA
+"Japan";"Forward";"shuto machino";"shonan bellmare";23;4;NA
+"Japan";"Midfielder";"yuki soma";"nagoya grampus";25;8;NA
+"Canada";"Midfielder";"liam fraser";"deinze";24;15;NA
+"Canada";"Defender";"derek cornelius";"panetolikos";24;14;NA
+"Morocco";"Midfielder";"anass zaroury";"burnley";22;1;NA
+"Morocco";"Defender";"badr benoun";"qatar sc";29;3;NA
+"Morocco";"Defender";"yahia attiyat allah";"wydad ac";27;2;NA
+"Brazil";"Forward";"neymar";"paris saint-germain";30;121;NA
+"Brazil";"Goalkeeper";"weverton";"palmeiras";34;8;NA
+"Brazil";"Defender";"dani alves";"unam";39;124;NA
+"Brazil";"Midfielder";"everton ribeiro";"flamengo";33;21;NA
+"Brazil";"Forward";"pedro";"flamengo";25;2;NA
+"Cameroon";"Defender";"jerome ngom mbekeli";"colombe sportive";24;2;NA
+"Cameroon";"Defender";"nicolas nkoulou";"aris";32;79;NA
+"Cameroon";"Midfielder";"georges-kevin nkoudou";"besiktas";27;3;NA
+"Cameroon";"Forward";"jean-pierre nsame";"young boys";29;4;NA
+"Cameroon";"Forward";"eric maxim choupo-moting";"bayern munich";33;70;NA
+"Cameroon";"Midfielder";"pierre kunde";"olympiacos";27;33;NA
+"Cameroon";"Midfielder";"souaibou marou";"coton sport";21;3;NA
+"Serbia";"Defender";"strahinja erakovic";"red star belgrade";21;2;NA
+"Serbia";"Forward";"filip duricic";"sampdoria";30;37;NA
+"Ghana";"Goalkeeper";"ibrahim danlad";"asante kotoko";19;4;NA
+"Ghana";"Midfielder";"daniel afriyie";"hearts of oak";21;7;NA
+"Uruguay";"Midfielder";"giorgian de arrascaeta";"flamengo";28;40;NA
+"Uruguay";"Defender";"guillermo varela";"flamengo";29;9;NA
+"Uruguay";"Midfielder";"agustin canobbio";"athletico paranaense";24;3;NA

@@ -21,11 +21,6 @@ if(sum(as.numeric(!packages %in% installed.packages())) != 0){
 wc_matches_all <- read.csv(file = 'wc_data/wcmatches.csv', header = TRUE)
 wc_winners <- read.csv(file = 'wc_data/WorldCups.csv', header = TRUE)
 
-# Datasets: World cup 2022 - groups (deletar?)
-# Source: FIFA
-wc_groups <- read.csv(file = 'wc_22/Fifa_Worldcup_2022_Groups.csv',
-                      header = TRUE)
-
 # Datasets: World cup - teams
 # Source: FIFA
 wc22_teams <- read.csv(file = 'wc_data/squads/wc_squads_2022.csv',

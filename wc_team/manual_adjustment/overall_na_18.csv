@@ -1,0 +1,120 @@
+Nationality;Position;Player;Club;Age;Caps;Overall
+Egypt;Goalkeeper;Essam El Hadary;Al Taawoun;45;158;75
+Egypt;Defender;Ahmed Fathy;Al Ahly;33;126;NA
+Egypt;Defender;Saad Samir;Al Ahly;29;11;NA
+Russia;Defender;Sergei Ignashevich;CSKA Moscow;38;122;NA
+Russia;Defender;Andrei Semyonov;Akhmat Grozny;29;6;NA
+Russia;Midfielder;Daler Kuzyayev;Zenit Saint Petersburg;25;6;NA
+Russia;Midfielder;Yury Gazinsky;Krasnodar;28;6;NA
+Russia;Goalkeeper;Andrey Lunyov;Zenit Saint Petersburg;26;3;NA
+Russia;Defender;Vladimir Granat;Rubin Kazan;31;12;72
+Russia;Midfielder;Aleksandr Samedov;Spartak Moscow;33;48;NA
+Russia;Goalkeeper;Vladimir Gabulov;Club Brugge;34;10;74
+Russia;Midfielder;Aleksandr Yerokhin;Zenit Saint Petersburg;28;17;NA
+Russia;Defender;Igor Smolnikov;Zenit Saint Petersburg;29;27;78
+Saudi Arabia;Defender;Osama Hawsawi;Al Hilal;34;135;74
+Saudi Arabia;Defender;Ali Al-Bulaihi;Al Hilal;28;4;NA
+Saudi Arabia;Defender;Mohammed Al-Breik;Al Hilal;25;11;NA
+Saudi Arabia;Midfielder;Abdulmalek Al-Khaibri;Al Hilal;32;36;NA
+Saudi Arabia;Midfielder;Abdullah Otayf;Al Hilal;25;16;NA
+Saudi Arabia;Midfielder;Housain Al-Mogahwi;Al Ahli;30;18;NA
+Saudi Arabia;Midfielder;Taisir Al-Jassim;Al Ahli;33;132;NA
+Saudi Arabia;Forward;Muhannad Assiri;Al Ahli;31;18;NA
+Uruguay;Midfielder;Carlos Sanchez;Monterrey;33;36;77
+Uruguay;Midfielder;Cristian Rodriguez;Penarol;32;105;75
+Uruguay;Forward;Giorgian De Arrascaeta;Cruzeiro;24;14;78
+IR Iran;Goalkeeper;Alireza Beiranvand;Persepolis;25;22;75
+IR Iran;Midfielder;Mehdi Torabi;Saipa;23;17;69
+IR Iran;Defender;Ehsan Hajsafi;Olympiacos;28;94;NA
+IR Iran;Midfielder;Rouzbeh Cheshmi;Esteghlal;24;10;NA
+IR Iran;Defender;Milad Mohammadi;Akhmat Grozny;24;19;75
+IR Iran;Midfielder;Masoud Shojaei;AEK Athens;34;74;71
+IR Iran;Defender;Morteza Pouraliganji;Al Sadd;26;27;71
+IR Iran;Midfielder;Omid Ebrahimi;Esteghlal;30;30;61
+IR Iran;Goalkeeper;Mohammad Rashid Mazaheri;Zob Ahan;29;3;62
+IR Iran;Defender;Mohammad Reza Khanzadeh;Padideh;27;11;61
+IR Iran;Forward;Saman Ghoddos;Ostersund;24;8;73
+IR Iran;Defender;Pejman Montazeri;Esteghlal;34;46;74
+IR Iran;Forward;Mehdi Taremi;Al-Gharafa;25;26;74
+IR Iran;Forward;Sardar Azmoun;Rubin Kazan;23;33;79
+IR Iran;Midfielder;Ashkan Dejagah;Nottingham Forest;31;46;75
+IR Iran;Defender;Ramin Rezaeian;Oostende;28;28;73
+Morocco;Defender;Medhi Benatia;Juventus;31;57;85
+Morocco;Forward;Khalid Boutaib;Yeni Malatyaspor;31;18;74
+Morocco;Forward;Aziz Bouhaddouz;FC St. Pauli;31;15;72
+Morocco;Goalkeeper;Ahmed Reda Tagnaouti;IR Tanger;22;2;64
+Morocco;Midfielder;Mehdi Carcela;Standard Liege;28;20;74
+Australia;Forward;Tim Cahill;Millwall;38;106;70
+Australia;Forward;Daniel Arzani;Melbourne City;19;2;66
+Denmark;Midfielder;William Kvist;Copenhagen;33;80;73
+Peru;Defender;Alberto Rodriguez;Atletico Junior;34;74;75
+Peru;Defender;Miguel Trauco;Flamengo;25;27;74
+Peru;Midfielder;Christian Cueva;Sao Paulo;26;46;78
+Peru;Forward;Paolo Guerrero;Flamengo;34;88;81
+Peru;Defender;Christian Ramos;Veracruz;29;68;74
+Peru;Defender;Nilson Loyola;Melgar;23;3;65
+Iceland;Midfielder;Samuel Fri?jonsson;Valerenga;22;4;NA
+Iceland;Midfielder;Albert Gu?mundsson;PSV Eindhoven;20;5;65
+Iceland;Defender;Ragnar Sigur?sson;Rostov;31;77;77
+Iceland;Midfielder;Johann Berg Gu?mundsson;Burnley;27;67;79
+Iceland;Forward;Bjorn Bergmann Sigur?arson;Rostov;27;12;74
+Iceland;Midfielder;Gylfi Sigur?sson;Everton;28;57;85
+Iceland;Midfielder;Emil Hallfre?sson;Udinese;33;64;76
+Iceland;Forward;Jon Da?i Bo?varsson;Reading;26;38;73
+Nigeria;Goalkeeper;Ikechukwu Ezenwa;Enyimba;29;24;68
+Nigeria;Forward;Simeon Nwankwo;Crotone;26;2;NA
+Nigeria;Midfielder;John Ogu;Hapoel Be'er Sheva;30;20;72
+Nigeria;Goalkeeper;Francis Uzoho;Deportivo La Coruna;19;6;68
+Brazil;Defender;Miranda;Inter Milan;33;47;87
+Brazil;Defender;Pedro Geromel;Gremio;32;2;NA
+Brazil;Forward;Neymar;Paris Saint-Germain;26;85;93
+Brazil;Goalkeeper;Cassio;Corinthians;31;1;77
+Brazil;Defender;Fagner;Corinthians;29;4;77
+Costa Rica;Defender;Jhonny Acosta;Aguilas Doradas;34;69;70
+Costa Rica;Midfielder;Christian Bolanos;Saprissa;34;81;71
+Costa Rica;Midfielder;Daniel Colindres;Saprissa;33;11;63
+Costa Rica;Midfielder;Bryan Ruiz;Sporting CP;32;110;76
+Costa Rica;Forward;Johan Venegas;Saprissa;29;47;68
+Costa Rica;Midfielder;Randall Azofeifa;Herediano;33;58;71
+Costa Rica;Midfielder;Yeltsin Tejeda;Lausanne;26;51;68
+Costa Rica;Goalkeeper;Patrick Pemberton;Alajuelense;36;39;66
+Costa Rica;Defender;Kendall Waston;Vancouver Whitecaps FC;30;26;74
+Costa Rica;Forward;Marco Urena;Los Angeles FC;28;64;69
+Costa Rica;Defender;Kenner Gutierrez;Alajuelense;29;9;63
+Serbia;Goalkeeper;Vladimir Stojkovic;Partizan;34;81;74
+Serbia;Defender;Antonio Rukavina;Villarreal;34;47;76
+Serbia;Defender;Uros Spajic;Anderlecht;25;5;74
+Serbia;Defender;Branislav Ivanovic;Zenit Saint Petersburg;34;103;82
+Serbia;Goalkeeper;Predrag Rajkovic;Maccabi Tel Aviv;22;8;69
+Serbia;Defender;Milan Rodic;Red Star Belgrade;27;1;69
+Switzerland;Defender;Johan Djourou;Antalyaspor;31;74;75
+Mexico;Defender;Rafael Marquez;Atlas;39;145;72
+Panama;Goalkeeper;Jaime Penedo;Dinamo Bucure?ti;36;131;68
+Panama;Defender;Fidel Escobar;New York Red Bulls;23;23;66
+Panama;Forward;Blas Perez;Municipal;37;118;68
+Panama;Forward;Gabriel Torres;Huachipato;29;72;69
+Panama;Forward;Ismael Diaz;Deportivo Fabril;21;11;66
+Panama;Midfielder;Armando Cooper;Universidad de Chile;30;98;68
+Panama;Goalkeeper;Jose Calderon;Chorrillo;32;31;NA
+Panama;Defender;Adolfo Machado;Houston Dynamo;33;76;72
+Panama;Midfielder;Valentin Pimentel;Plaza Amador;27;23;67
+Panama;Defender;Erick Davis;Dunajska Streda;27;38;NA
+Panama;Forward;Abdiel Arroyo;Alajuelense;24;33;66
+Panama;Defender;Luis Ovalle;CD Olimpia;29;25;NA
+Panama;Forward;Luis Tejada;Sport Boys;36;105;67
+Panama;Midfielder;Ricardo Avila;Gent;21;5;62
+Panama;Midfielder;Jose Luis Rodriguez;Gent;19;2;60
+Panama;Goalkeeper;Alex Rodriguez;San Francisco;27;6;62
+Panama;Defender;Felipe Baloy;Municipal;37;102;69
+Tunisia;Midfielder;Anice Badri;Esperance de Tunis;27;7;71
+Tunisia;Defender;Ali Maaloul;Al Ahly;28;46;70
+Tunisia;Midfielder;Ferjani Sassi;Al Nassr;26;39;69
+Tunisia;Midfielder;Mohamed Amine Ben Amor;Al Ahli;26;26;72
+Tunisia;Forward;Ahmed Khalil;Club Africain;23;3;68
+Tunisia;Goalkeeper;Aymen Mathlouthi;Al Batin;33;70;73
+Tunisia;Forward;Saber Khalifa;Club Africain;31;44;73
+Tunisia;Forward;Ghailene Chaalali;Esperance de Tunis;24;6;NA
+Tunisia;Defender;Hamdi Nagguez;Zamalek;25;15;72
+Colombia;Midfielder;Abel Aguilar;Deportivo Cali;33;70;75
+Senegal;Forward;Moussa Sow;Bursaspor;32;51;75
+Senegal;Goalkeeper;Khadim N'Diaye;Horoya;33;26;69

@@ -1,0 +1,130 @@
+"Nationality";"Position";"Player";"Club";"Age";"Caps";"Overall"
+"Brazil";"Goalkeeper";"jefferson";"botafogo";31;9;NA
+"Brazil";"Midfielder";"paulinho";"tottenham hotspur";25;26;NA
+"Brazil";"Forward";"fred";"fluminense";30;33;NA
+"Brazil";"Forward";"jo";"atletico mineiro";27;17;NA
+"Brazil";"Goalkeeper";"victor";"atletico mineiro";31;6;NA
+"Cameroon";"Goalkeeper";"loic feudjou";"coton sport";22;2;NA
+"Cameroon";"Defender";"benoit assou-ekotto";"queens park rangers";30;22;NA
+"Cameroon";"Defender";"henri bedimo";"lyon";30;31;NA
+"Cameroon";"Forward";"pierre webo";"fenerbahce";32;56;NA
+"Cameroon";"Midfielder";"stephane mbia";"sevilla";28;49;NA
+"Cameroon";"Forward";"fabrice olinga";"zulte waregem";18;8;NA
+"Cameroon";"Goalkeeper";"sammy ndjock";"fethiyespor";24;3;NA
+"Croatia";"Midfielder";"ognjen vukojevic";"dynamo kyiv";30;55;NA
+"Croatia";"Goalkeeper";"oliver zelenika";"lokomotiva";21;0;NA
+"Croatia";"Midfielder";"sammir";"getafe";27;6;NA
+"Croatia";"Defender";"domagoj vida";"dynamo kyiv";25;23;NA
+"Croatia";"Forward";"eduardo";"shakhtar donetsk";31;63;NA
+"Mexico";"Defender";"rafael marquez";"leon";35;120;NA
+"Mexico";"Forward";"alan pulido";"uanl";23;6;NA
+"Australia";"Midfielder";"mark bresciano";"al-gharafa";34;74;NA
+"Chile";"Defender";"eugenio mena";"santos";25;25;NA
+"Chile";"Forward";"mauricio pinilla";"cagliari";30;27;NA
+"Chile";"Midfielder";"jorge valdivia";"palmeiras";30;57;NA
+"Chile";"Defender";"gonzalo jara";"nottingham forest";28;65;NA
+"Chile";"Midfielder";"charles aranguiz";"internacional";25;21;NA
+"Netherlands";"Defender";"paul verhaegh";"fc augsburg";30;2;NA
+"Colombia";"Midfielder";"carlos carbonero";"river plate";23;1;NA
+"Colombia";"Defender";"pablo armero";"west ham united";27;53;NA
+"Colombia";"Goalkeeper";"faryd mondragon";"deportivo cali";42;50;NA
+"Greece";"Midfielder";"giorgos karagounis";"fulham";37;135;NA
+"Ivory Coast";"Goalkeeper";"boubacar barry";"lokeren";34;77;NA
+"Japan";"Defender";"masato morishige";"fc tokyo";27;10;NA
+"Japan";"Midfielder";"yasuhito endo";"gamba osaka";34;144;NA
+"Japan";"Goalkeeper";"shusaku nishikawa";"urawa red diamonds";27;13;NA
+"Japan";"Forward";"yoshito okubo";"kawasaki frontale";32;57;NA
+"Japan";"Midfielder";"toshihiro aoyama";"sanfrecce hiroshima";28;6;NA
+"Japan";"Defender";"yasuyuki konno";"gamba osaka";31;81;NA
+"Japan";"Midfielder";"hotaru yamaguchi";"cerezo osaka";23;12;NA
+"Japan";"Defender";"masahiko inoha";"jubilo iwata";30;21;NA
+"Japan";"Forward";"manabu saito";"yokohama f. marinos";24;5;NA
+"Japan";"Goalkeeper";"shuichi gonda";"fc tokyo";25;2;NA
+"Costa Rica";"Defender";"jhonny acosta";"alajuelense";30;25;NA
+"Costa Rica";"Defender";"michael umana";"saprissa";31;83;NA
+"Costa Rica";"Midfielder";"christian bolanos";"copenhagen";30;55;NA
+"Costa Rica";"Defender";"david myrie";"herediano";26;10;NA
+"Costa Rica";"Midfielder";"michael barrantes";"aalesund";30;50;NA
+"Costa Rica";"Midfielder";"oscar granados";"herediano";28;11;NA
+"Costa Rica";"Goalkeeper";"patrick pemberton";"alajuelense";32;21;NA
+"Costa Rica";"Midfielder";"diego calvo";"valerenga";23;10;NA
+"Costa Rica";"Goalkeeper";"daniel cambronero";"herediano";28;4;NA
+"England";"Defender";"glen johnson";"liverpool";29;52;NA
+"Italy";"Defender";"ignazio abate";"milan";27;20;NA
+"Italy";"Forward";"antonio cassano";"parma";31;37;NA
+"Uruguay";"Defender";"diego lugano";"west bromwich albion";33;94;NA
+"Uruguay";"Forward";"diego forlan";"cerezo osaka";35;110;NA
+"Uruguay";"Goalkeeper";"martin silva";"vasco da gama";31;4;NA
+"Ecuador";"Goalkeeper";"maximo banguera";"barcelona sc";28;25;NA
+"Ecuador";"Defender";"jorge guagua";"emelec";32;59;NA
+"Ecuador";"Defender";"frickson erazo";"flamengo";26;37;NA
+"Ecuador";"Midfielder";"edison mendez";"santa fe";35;110;NA
+"Ecuador";"Goalkeeper";"adrian bone";"el nacional";25;3;NA
+"Ecuador";"Midfielder";"luis saritama";"barcelona sc";30;49;NA
+"France";"Goalkeeper";"mickael landreau";"bastia";35;11;NA
+"Honduras";"Goalkeeper";"luis lopez";"real espana";20;0;NA
+"Honduras";"Defender";"juan pablo montes";"motagua";28;11;NA
+"Honduras";"Forward";"jerry palacios";"alajuelense";32;24;NA
+"Honduras";"Midfielder";"mario martinez";"real espana";24;37;NA
+"Honduras";"Forward";"jerry bengtson";"new england revolution";27;44;NA
+"Honduras";"Midfielder";"edder delgado";"real espana";27;26;NA
+"Honduras";"Forward";"carlo costly";"real espana";31;70;NA
+"Honduras";"Forward";"rony martinez";"cd real sociedad";26;12;NA
+"Honduras";"Goalkeeper";"noel valladares";"olimpia";37;122;NA
+"Honduras";"Midfielder";"jorge claros";"motagua";28;49;NA
+"Honduras";"Goalkeeper";"donis escober";"olimpia";34;26;NA
+"Argentina";"Midfielder";"fernando gago";"boca juniors";28;49;NA
+"Bosnia and Herzegovina";"Defender";"avdija vrsajevic";"hajduk split";28;13;NA
+"Bosnia and Herzegovina";"Defender";"emir spahic";"bayer leverkusen";33;74;NA
+"Bosnia and Herzegovina";"Midfielder";"zvjezdan misimovic";"guizhou renhe";32;81;NA
+"Bosnia and Herzegovina";"Midfielder";"tino-sven susic";"hajduk split";22;2;NA
+"Bosnia and Herzegovina";"Goalkeeper";"asmir avdukic";"borac banja luka";33;3;NA
+"Bosnia and Herzegovina";"Midfielder";"sejad salihovic";"1899 hoffenheim";29;42;NA
+"IR Iran";"Goalkeeper";"rahman ahmadi";"sepahan";33;10;NA
+"IR Iran";"Defender";"khosro heydari";"esteghlal";30;49;NA
+"IR Iran";"Midfielder";"ehsan hajsafi";"sepahan";24;62;NA
+"IR Iran";"Defender";"jalal hosseini";"persepolis";32;85;NA
+"IR Iran";"Defender";"amir hossein sadeghi";"esteghlal";32;17;NA
+"IR Iran";"Midfielder";"javad nekounam";"al-kuwait";33;140;NA
+"IR Iran";"Midfielder";"masoud shojaei";"las palmas";30;50;NA
+"IR Iran";"Forward";"alireza jahanbakhsh";"nec";20;7;NA
+"IR Iran";"Midfielder";"ghasem haddadifar";"zob ahan";30;17;NA
+"IR Iran";"Defender";"hossein mahini";"persepolis";27;22;NA
+"IR Iran";"Midfielder";"andranik teymourian";"esteghlal";31;79;NA
+"IR Iran";"Defender";"pejman montazeri";"umm salal";30;22;NA
+"IR Iran";"Forward";"reza ghoochannejhad";"charlton athletic";26;14;NA
+"IR Iran";"Defender";"ahmad alenemeh";"naft tehran";31;9;NA
+"IR Iran";"Midfielder";"bakhtiar rahmani";"foolad";22;4;NA
+"IR Iran";"Defender";"hashem beikzadeh";"esteghlal";30;17;NA
+"IR Iran";"Midfielder";"ashkan dejagah";"fulham";27;14;NA
+"IR Iran";"Defender";"mehrdad pooladi";"persepolis";27;20;NA
+"Nigeria";"Defender";"joseph yobo";"norwich city";33;97;NA
+"Nigeria";"Midfielder";"ejike uzoenyi";"enugu rangers";22;21;NA
+"Nigeria";"Defender";"azubuike egwuekwe";"warri wolves";24;31;NA
+"Nigeria";"Defender";"kunle odunlami";"sunshine stars";23;11;NA
+"Nigeria";"Defender";"juwon oshaniwa";"ashdod";23;10;NA
+"Nigeria";"Goalkeeper";"austin ejide";"hapoel be'er sheva";30;31;NA
+"Nigeria";"Midfielder";"michael babatunde";"volyn lutsk";21;5;NA
+"Nigeria";"Goalkeeper";"chigozie agbim";"gombe united";29;11;NA
+"Germany";"Defender";"kevin gro?kreutz";"borussia dortmund";25;5;NA
+"Ghana";"Goalkeeper";"stephen adams";"aduana stars";24;7;NA
+"Ghana";"Defender";"samuel inkoom";"platanias";25;46;NA
+"Ghana";"Forward";"asamoah gyan";"al ain";28;79;NA
+"Ghana";"Defender";"rashid sumaila";"mamelodi sundowns";21;6;NA
+"Ghana";"Goalkeeper";"fatau dauda";"orlando pirates";29;18;NA
+"Portugal";"Goalkeeper";"eduardo";"braga";31;34;NA
+"Portugal";"Midfielder";"miguel veloso";"dynamo kyiv";28;49;NA
+"Algeria";"Goalkeeper";"cedric si mohamed";"cs constantine";29;1;NA
+"Algeria";"Defender";"madjid bougherra";"lekhwiya";31;62;NA
+"Algeria";"Defender";"rafik halliche";"academica de coimbra";27;29;NA
+"Algeria";"Midfielder";"hassan yebda";"udinese";30;25;NA
+"Algeria";"Forward";"hillal soudani";"dinamo zagreb";26;22;NA
+"Algeria";"Goalkeeper";"mohamed zemmamouche";"usm alger";29;7;NA
+"Algeria";"Midfielder";"abdelmoumene djabou";"club africain";27;8;NA
+"Algeria";"Goalkeeper";"rais m'bolhi";"cska sofia";28;28;NA
+"Belgium";"Defender";"daniel van buyten";"bayern munich";36;79;NA
+"Russia";"Defender";"georgi shchennikov";"cska moscow";23;4;NA
+"Russia";"Defender";"andrei semyonov";"terek grozny";25;1;NA
+"Russia";"Defender";"vasili berezutski";"cska moscow";31;78;NA
+"Russia";"Midfielder";"pavel mogilevets";"rubin kazan";21;1;NA
+"Russia";"Defender";"andrey yeshchenko";"anzhi makhachkala";30;12;NA

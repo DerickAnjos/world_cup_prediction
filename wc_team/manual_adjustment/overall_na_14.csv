@@ -1,0 +1,130 @@
+Nationality;Position;Player;Club;Age;Caps;Overall
+Brazil;Goalkeeper;Jefferson;Botafogo;31;9;82
+Brazil;Midfielder;Paulinho;Tottenham Hotspur;25;26;81
+Brazil;Forward;Fred;Fluminense;30;33;79
+Brazil;Forward;Jo;Atletico Mineiro;27;17;79
+Brazil;Goalkeeper;Victor;Atletico Mineiro;31;6;79
+Cameroon;Goalkeeper;Loic Feudjou;Coton Sport;22;2;
+Cameroon;Defender;Benoit Assou-Ekotto;Queens Park Rangers;30;22;
+Cameroon;Defender;Henri Bedimo;Lyon;30;31;
+Cameroon;Forward;Pierre Webo;Fenerbahce;32;56;
+Cameroon;Midfielder;Stephane Mbia;Sevilla;28;49;
+Cameroon;Forward;Fabrice Olinga;Zulte Waregem;18;8;
+Cameroon;Goalkeeper;Sammy Ndjock;Fethiyespor;24;3;
+Croatia;Midfielder;Ognjen Vukojevic;Dynamo Kyiv;30;55;
+Croatia;Goalkeeper;Oliver Zelenika;Lokomotiva;21;0;
+Croatia;Midfielder;Sammir;Getafe;27;6;
+Croatia;Defender;Domagoj Vida;Dynamo Kyiv;25;23;
+Croatia;Forward;Eduardo;Shakhtar Donetsk;31;63;
+Mexico;Defender;Rafael Marquez;Leon;35;120;35
+Mexico;Forward;Alan Pulido;UANL;23;6;72
+Australia;Midfielder;Mark Bresciano;Al-Gharafa;34;74;72
+Chile;Defender;Eugenio Mena;Santos;25;25;72
+Chile;Forward;Mauricio Pinilla;Cagliari;30;27;75
+Chile;Midfielder;Jorge Valdivia;Palmeiras;30;57;78
+Chile;Defender;Gonzalo Jara;Nottingham Forest;28;65;70
+Chile;Midfielder;Charles Aranguiz;Internacional;25;21;75
+Netherlands;Defender;Paul Verhaegh;FC Augsburg;30;2;75
+Colombia;Midfielder;Carlos Carbonero;River Plate;23;1;71
+Colombia;Defender;Pablo Armero;West Ham United;27;53;75
+Colombia;Goalkeeper;Faryd Mondragon;Deportivo Cali;42;50;NA
+Greece;Midfielder;Giorgos Karagounis;Fulham;37;135;NA
+Ivory Coast;Goalkeeper;Boubacar Barry;Lokeren;34;77;69
+Japan;Defender;Masato Morishige;FC Tokyo;27;10;NA
+Japan;Midfielder;Yasuhito Endo;Gamba Osaka;34;144;NA
+Japan;Goalkeeper;Shusaku Nishikawa;Urawa Red Diamonds;27;13;NA
+Japan;Forward;Yoshito Okubo;Kawasaki Frontale;32;57;NA
+Japan;Midfielder;Toshihiro Aoyama;Sanfrecce Hiroshima;28;6;NA
+Japan;Defender;Yasuyuki Konno;Gamba Osaka;31;81;NA
+Japan;Midfielder;Hotaru Yamaguchi;Cerezo Osaka;23;12;NA
+Japan;Defender;Masahiko Inoha;Jubilo Iwata;30;21;NA
+Japan;Forward;Manabu Saito;Yokohama F. Marinos;24;5;NA
+Japan;Goalkeeper;Shuichi Gonda;FC Tokyo;25;2;NA
+Costa Rica;Defender;Jhonny Acosta;Alajuelense;30;25;NA
+Costa Rica;Defender;Michael Umana;Saprissa;31;83;NA
+Costa Rica;Midfielder;Christian Bolanos;Copenhagen;30;55;70
+Costa Rica;Defender;David Myrie;Herediano;26;10;NA
+Costa Rica;Midfielder;Michael Barrantes;Aalesund;30;50;72
+Costa Rica;Midfielder;Oscar Granados;Herediano;28;11;NA
+Costa Rica;Goalkeeper;Patrick Pemberton;Alajuelense;32;21;NA
+Costa Rica;Midfielder;Diego Calvo;Valerenga;23;10;63
+Costa Rica;Goalkeeper;Daniel Cambronero;Herediano;28;4;NA
+England;Defender;Glen Johnson;Liverpool;29;52;75
+Italy;Defender;Ignazio Abate;Milan;27;20;75
+Italy;Forward;Antonio Cassano;Parma;31;37;81
+Uruguay;Defender;Diego Lugano;West Bromwich Albion;33;94;74
+Uruguay;Forward;Diego Forlan;Cerezo Osaka;35;110;78
+Uruguay;Goalkeeper;Martin Silva;Vasco da Gama;31;4;71
+Ecuador;Goalkeeper;Maximo Banguera;Barcelona SC;28;25;70
+Ecuador;Defender;Jorge Guagua;Emelec;32;59;68
+Ecuador;Defender;Frickson Erazo;Flamengo;26;37;68
+Ecuador;Midfielder;Edison Mendez;Santa Fe;35;110;71
+Ecuador;Goalkeeper;Adrian Bone;El Nacional;25;3;61
+Ecuador;Midfielder;Luis Saritama;Barcelona SC;30;49;NA
+France;Goalkeeper;Mickael Landreau;Bastia;35;11;NA
+Honduras;Goalkeeper;Luis Lopez;Real Espana;20;0;NA
+Honduras;Defender;Juan Pablo Montes;Motagua;28;11;NA
+Honduras;Forward;Jerry Palacios;Alajuelense;32;24;NA
+Honduras;Midfielder;Mario Martinez;Real Espana;24;37;NA
+Honduras;Forward;Jerry Bengtson;New England Revolution;27;44;62
+Honduras;Midfielder;Edder Delgado;Real Espana;27;26;NA
+Honduras;Forward;Carlo Costly;Real Espana;31;70;NA
+Honduras;Forward;Rony Martinez;CD Real Sociedad;26;12;NA
+Honduras;Goalkeeper;Noel Valladares;Olimpia;37;122;NA
+Honduras;Midfielder;Jorge Claros;Motagua;28;49;67
+Honduras;Goalkeeper;Donis Escober;Olimpia;34;26;NA
+Argentina;Midfielder;Fernando Gago;Boca Juniors;28;49;75
+Bosnia and Herzegovina;Defender;Avdija Vrsajevic;Hajduk Split;28;13;NA
+Bosnia and Herzegovina;Defender;Emir Spahic;Bayer Leverkusen;33;74;78
+Bosnia and Herzegovina;Midfielder;Zvjezdan Misimovic;Guizhou Renhe;32;81;NA
+Bosnia and Herzegovina;Midfielder;Tino-Sven Susic;Hajduk Split;22;2;NA
+Bosnia and Herzegovina;Goalkeeper;Asmir Avdukic;Borac Banja Luka;33;3;NA
+Bosnia and Herzegovina;Midfielder;Sejad Salihovic;1899 Hoffenheim;29;42;76
+IR Iran;Goalkeeper;Rahman Ahmadi;Sepahan;33;10;NA
+IR Iran;Defender;Khosro Heydari;Esteghlal;30;49;NA
+IR Iran;Midfielder;Ehsan Hajsafi;Sepahan;24;62;NA
+IR Iran;Defender;Jalal Hosseini;Persepolis;32;85;NA
+IR Iran;Defender;Amir Hossein Sadeghi;Esteghlal;32;17;NA
+IR Iran;Midfielder;Javad Nekounam;Al-Kuwait;33;140;75
+IR Iran;Midfielder;Masoud Shojaei;Las Palmas;30;50;72
+IR Iran;Forward;Alireza Jahanbakhsh;NEC;20;7;63
+IR Iran;Midfielder;Ghasem Haddadifar;Zob Ahan;30;17;NA
+IR Iran;Defender;Hossein Mahini;Persepolis;27;22;NA
+IR Iran;Midfielder;Andranik Teymourian;Esteghlal;31;79;NA
+IR Iran;Defender;Pejman Montazeri;Umm Salal;30;22;NA
+IR Iran;Forward;Reza Ghoochannejhad;Charlton Athletic;26;14;68
+IR Iran;Defender;Ahmad Alenemeh;Naft Tehran;31;9;NA
+IR Iran;Midfielder;Bakhtiar Rahmani;Foolad;22;4;NA
+IR Iran;Defender;Hashem Beikzadeh;Esteghlal;30;17;NA
+IR Iran;Midfielder;Ashkan Dejagah;Fulham;27;14;74
+IR Iran;Defender;Mehrdad Pooladi;Persepolis;27;20;NA
+Nigeria;Defender;Joseph Yobo;Norwich City;33;97;74
+Nigeria;Midfielder;Ejike Uzoenyi;Enugu Rangers;22;21;NA
+Nigeria;Defender;Azubuike Egwuekwe;Warri Wolves;24;31;NA
+Nigeria;Defender;Kunle Odunlami;Sunshine Stars;23;11;NA
+Nigeria;Defender;Juwon Oshaniwa;Ashdod;23;10;NA
+Nigeria;Goalkeeper;Austin Ejide;Hapoel Be'er Sheva;30;31;NA
+Nigeria;Midfielder;Michael Babatunde;Volyn Lutsk;21;5;NA
+Nigeria;Goalkeeper;Chigozie Agbim;Gombe United;29;11;NA
+Germany;Defender;Kevin Gro?kreutz;Borussia Dortmund;25;5;NA
+Ghana;Goalkeeper;Stephen Adams;Aduana Stars;24;7;NA
+Ghana;Defender;Samuel Inkoom;Platanias;25;46;69
+Ghana;Forward;Asamoah Gyan;Al Ain;28;79;NA
+Ghana;Defender;Rashid Sumaila;Mamelodi Sundowns;21;6;NA
+Ghana;Goalkeeper;Fatau Dauda;Orlando Pirates;29;18;71
+Portugal;Goalkeeper;Eduardo;Braga;31;34;73
+Portugal;Midfielder;Miguel Veloso;Dynamo Kyiv;28;49;80
+Algeria;Goalkeeper;Cedric Si Mohamed;CS Constantine;29;1;NA
+Algeria;Defender;Madjid Bougherra;Lekhwiya;31;62;NA
+Algeria;Defender;Rafik Halliche;Academica de Coimbra;27;29;68
+Algeria;Midfielder;Hassan Yebda;Udinese;30;25;71
+Algeria;Forward;Hillal Soudani;Dinamo Zagreb;26;22;NA
+Algeria;Goalkeeper;Mohamed Zemmamouche;USM Alger;29;7;NA
+Algeria;Midfielder;Abdelmoumene Djabou;Club Africain;27;8;
+Algeria;Goalkeeper;Rais M'Bolhi;CSKA Sofia;28;28;67
+Belgium;Defender;Daniel Van Buyten;Bayern Munich;36;79;NA
+Russia;Defender;Georgi Shchennikov;CSKA Moscow;23;4;NA
+Russia;Defender;Andrei Semyonov;Terek Grozny;25;1;NA
+Russia;Defender;Vasili Berezutski;CSKA Moscow;31;78;NA
+Russia;Midfielder;Pavel Mogilevets;Rubin Kazan;21;1;68
+Russia;Defender;Andrey Yeshchenko;Anzhi Makhachkala;30;12;NA

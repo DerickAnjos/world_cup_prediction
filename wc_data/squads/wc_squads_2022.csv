@@ -1,0 +1,832 @@
+Nation,Position,Player,Club,Age,Caps
+Ecuador,Goalkeeper,Hernán Galíndez,Aucas,35,12
+Ecuador,Defender,Félix Torres,Santos Laguna,25,17
+Ecuador,Defender,Piero Hincapié,Bayer Leverkusen,20,21
+Ecuador,Defender,Robert Arboleda,São Paulo,31,33
+Ecuador,Midfielder,José Cifuentes,Los Angeles FC,23,11
+Ecuador,Defender,William Pacho,Antwerp,21,0
+Ecuador,Defender,Pervis Estupiñán,Brighton & Hove Albion,24,28
+Ecuador,Midfielder,Carlos Gruezo,FC Augsburg,27,46
+Ecuador,Midfielder,Ayrton Preciado,Santos Laguna,28,27
+Ecuador,Midfielder,Romario Ibarra,Pachuca,28,25
+Ecuador,Forward,Michael Estrada,Cruz Azul,26,36
+Ecuador,Goalkeeper,Moisés Ramírez,Independiente del Valle,22,2
+Ecuador,Forward,Enner Valencia,Fenerbahçe,33,74
+Ecuador,Defender,Xavier Arreaga,Seattle Sounders FC,28,18
+Ecuador,Midfielder,Ángel Mena,León,34,46
+Ecuador,Midfielder,Jeremy Sarmiento,Brighton & Hove Albion,20,9
+Ecuador,Defender,Ángelo Preciado,Genk,24,24
+Ecuador,Defender,Diego Palacios,Los Angeles FC,23,12
+Ecuador,Midfielder,Gonzalo Plata,Valladolid,22,30
+Ecuador,Midfielder,Sebas Méndez,Los Angeles FC,25,32
+Ecuador,Midfielder,Alan Franco,Talleres,24,25
+Ecuador,Goalkeeper,Alexander Domínguez,LDU Quito,35,68
+Ecuador,Midfielder,Moisés Caicedo,Brighton & Hove Albion,21,25
+Ecuador,Forward,Djorkaeff Reasco,Newell's Old Boys,23,4
+Ecuador,Defender,Jackson Porozo,Troyes,22,5
+Ecuador,Forward,Kevin Rodríguez,Imbabura,22,1
+Netherlands,Goalkeeper,Remko Pasveer,Ajax,39,2
+Netherlands,Defender,Jurriën Timber,Ajax,21,10
+Netherlands,Defender,Matthijs de Ligt,Bayern Munich,23,38
+Netherlands,Defender,Virgil van Dijk,Liverpool,31,49
+Netherlands,Defender,Nathan Aké,Manchester City,27,29
+Netherlands,Defender,Stefan de Vrij,Internazionale,30,59
+Netherlands,Forward,Steven Bergwijn,Ajax,25,24
+Netherlands,Forward,Cody Gakpo,PSV Eindhoven,23,9
+Netherlands,Forward,Luuk de Jong,PSV Eindhoven,32,38
+Netherlands,Forward,Memphis Depay,Barcelona,28,81
+Netherlands,Midfielder,Steven Berghuis,Ajax,30,39
+Netherlands,Forward,Noa Lang,Club Brugge,23,5
+Netherlands,Goalkeeper,Justin Bijlow,Feyenoord,24,6
+Netherlands,Midfielder,Davy Klaassen,Ajax,29,35
+Netherlands,Midfielder,Marten de Roon,Atalanta,31,30
+Netherlands,Defender,Tyrell Malacia,Manchester United,23,6
+Netherlands,Defender,Daley Blind,Ajax,32,94
+Netherlands,Forward,Vincent Janssen,Antwerp,28,20
+Netherlands,Forward,Wout Weghorst,Beşiktaş,30,15
+Netherlands,Midfielder,Teun Koopmeiners,Atalanta,24,10
+Netherlands,Midfielder,Frenkie de Jong,Barcelona,25,45
+Netherlands,Defender,Denzel Dumfries,Internazionale,26,37
+Netherlands,Goalkeeper,Andries Noppert,Heerenveen,28,0
+Netherlands,Midfielder,Kenneth Taylor,Ajax,20,2
+Netherlands,Midfielder,Xavi Simons,PSV Eindhoven,19,0
+Netherlands,Defender,Jeremie Frimpong,Bayer Leverkusen,21,0
+Qatar,Goalkeeper,Saad Al-Sheeb,Al-Sadd,32,76
+Qatar,Defender,Ró-Ró,Al-Sadd,32,80
+Qatar,Midfielder,Abdelkarim Hassan,Al-Sadd,29,130
+Qatar,Defender,Mohammed Waad,Al-Sadd,23,21
+Qatar,Defender,Tarek Salman,Al-Sadd,24,58
+Qatar,Midfielder,Abdulaziz Hatem,Al-Rayyan,32,107
+Qatar,Forward,Ahmed Alaaeldin,Al-Gharafa,29,47
+Qatar,Midfielder,Ali Assadalla,Al-Sadd,29,59
+Qatar,Forward,Mohammed Muntari,Al-Duhail,28,48
+Qatar,Midfielder,Hassan Al-Haydos,Al-Sadd,31,169
+Qatar,Forward,Akram Afif,Al-Sadd,26,89
+Qatar,Midfielder,Karim Boudiaf,Al-Duhail,32,115
+Qatar,Defender,Musab Kheder,Al-Sadd,29,30
+Qatar,Defender,Homam Ahmed,Al-Gharafa,23,29
+Qatar,Defender,Bassam Al-Rawi,Al-Duhail,24,58
+Qatar,Defender,Boualem Khoukhi,Al-Sadd,32,105
+Qatar,Defender,Ismaeel Mohammad,Al-Duhail,32,70
+Qatar,Forward,Khalid Muneer,Al-Wakrah,24,2
+Qatar,Forward,Almoez Ali,Al-Duhail,26,85
+Qatar,Midfielder,Salem Al-Hajri,Al-Sadd,26,22
+Qatar,Goalkeeper,Yousef Hassan,Al-Gharafa,26,7
+Qatar,Goalkeeper,Meshaal Barsham,Al-Sadd,24,20
+Qatar,Midfielder,Assim Madibo,Al-Duhail,26,43
+Qatar,Midfielder,Naif Al-Hadhrami,Al-Rayyan,21,1
+Qatar,Midfielder,Jassem Gaber,Al-Arabi,20,0
+Qatar,Midfielder,Mostafa Meshaal,Al-Sadd,21,1
+Senegal,Goalkeeper,Seny Dieng,Queens Park Rangers,27,4
+Senegal,Defender,Formose Mendy,Amiens,21,2
+Senegal,Defender,Kalidou Koulibaly,Chelsea,31,64
+Senegal,Defender,Pape Abou Cissé,Olympiacos,27,13
+Senegal,Midfielder,Idrissa Gueye,Everton,33,96
+Senegal,Midfielder,Nampalys Mendy,Leicester City,30,19
+Senegal,Forward,Nicolas Jackson,Villarreal,21,0
+Senegal,Defender,Cheikhou Kouyaté,Nottingham Forest,32,83
+Senegal,Forward,Boulaye Dia,Salernitana,26,19
+Senegal,Defender,Moussa N'Diaye,Anderlecht,20,0
+Senegal,Midfielder,Pathé Ciss,Rayo Vallecano,28,1
+Senegal,Defender,Fodé Ballo-Touré,Milan,25,14
+Senegal,Forward,Iliman Ndiaye,Sheffield United,22,2
+Senegal,Defender,Ismail Jakobs,Monaco,23,2
+Senegal,Midfielder,Krépin Diatta,Monaco,23,26
+Senegal,Goalkeeper,Édouard Mendy,Chelsea,30,25
+Senegal,Midfielder,Pape Matar Sarr,Tottenham Hotspur,20,10
+Senegal,Forward,Ismaïla Sarr,Watford,24,48
+Senegal,Forward,Famara Diédhiou,Alanyaspor,29,25
+Senegal,Forward,Bamba Dieng,Marseille,22,13
+Senegal,Defender,Youssouf Sabaly,Real Betis,29,24
+Senegal,Defender,Abdou Diallo,RB Leipzig,26,18
+Senegal,Goalkeeper,Alfred Gomis,Rennes,29,13
+Senegal,Defender,Moustapha Name,Pafos,27,6
+Senegal,Midfielder,Mamadou Loum,Reading,25,3
+Senegal,Midfielder,Pape Gueye,Marseille,23,12
+England,Goalkeeper,Jordan Pickford,Everton,28,45
+England,Defender,Kyle Walker,Manchester City,32,70
+England,Defender,Luke Shaw,Manchester United,27,23
+England,Midfielder,Declan Rice,West Ham United,23,34
+England,Defender,John Stones,Manchester City,28,59
+England,Defender,Harry Maguire,Manchester United,29,48
+England,Forward,Jack Grealish,Manchester City,27,24
+England,Midfielder,Jordan Henderson,Liverpool,32,70
+England,Forward,Harry Kane,Tottenham Hotspur,29,75
+England,Forward,Raheem Sterling,Chelsea,27,79
+England,Forward,Marcus Rashford,Manchester United,25,46
+England,Defender,Kieran Trippier,Newcastle United,32,37
+England,Goalkeeper,Nick Pope,Newcastle United,30,10
+England,Midfielder,Kalvin Phillips,Manchester City,26,23
+England,Defender,Eric Dier,Tottenham Hotspur,28,47
+England,Defender,Conor Coady,Everton,29,10
+England,Forward,Bukayo Saka,Arsenal,21,20
+England,Defender,Trent Alexander-Arnold,Liverpool,24,17
+England,Midfielder,Mason Mount,Chelsea,23,32
+England,Midfielder,Phil Foden,Manchester City,22,18
+England,Defender,Ben White,Arsenal,25,4
+England,Midfielder,Jude Bellingham,Borussia Dortmund,19,17
+England,Goalkeeper,Aaron Ramsdale,Arsenal,24,3
+England,Forward,Callum Wilson,Newcastle United,30,4
+England,Midfielder,James Maddison,Leicester City,25,1
+England,Midfielder,Conor Gallagher,Chelsea,22,4
+Iran,Goalkeeper,Alireza Beiranvand,Persepolis,30,52
+Iran,Defender,Sadegh Moharrami,Dinamo Zagreb,26,21
+Iran,Defender,Ehsan Hajsafi,AEK Athens,32,121
+Iran,Defender,Shojae Khalilzadeh,Al-Ahli Doha,33,25
+Iran,Defender,Milad Mohammadi,AEK Athens,29,45
+Iran,Midfielder,Saeid Ezatolahi,Vejle,26,47
+Iran,Midfielder,Alireza Jahanbakhsh,Feyenoord,29,64
+Iran,Defender,Morteza Pouraliganji,Persepolis,30,46
+Iran,Forward,Mehdi Taremi,Porto,30,60
+Iran,Forward,Karim Ansarifard,Omonia,32,94
+Iran,Midfielder,Vahid Amiri,Persepolis,34,68
+Iran,Goalkeeper,Payam Niazmand,Sepahan,27,1
+Iran,Defender,Hossein Kanaanizadegan,Al-Ahli Doha,28,35
+Iran,Midfielder,Saman Ghoddos,Brentford,29,33
+Iran,Defender,Rouzbeh Cheshmi,Esteghlal,29,19
+Iran,Midfielder,Mehdi Torabi,Persepolis,28,36
+Iran,Midfielder,Ali Gholizadeh,Charleroi,26,26
+Iran,Midfielder,Ali Karimi,Kayserispor,28,13
+Iran,Defender,Majid Hosseini,Kayserispor,26,18
+Iran,Forward,Sardar Azmoun,Bayer Leverkusen,27,65
+Iran,Midfielder,Ahmad Nourollahi,Shabab Al-Ahli,29,25
+Iran,Goalkeeper,Amir Abedzadeh,Ponferradina,29,11
+Iran,Defender,Ramin Rezaeian,Sepahan,32,46
+Iran,Goalkeeper,Hossein Hosseini,Esteghlal,30,6
+Iran,Defender,Abolfazl Jalali,Esteghlal,24,3
+United States,Goalkeeper,Matt Turner,Arsenal,28,20
+United States,Defender,Sergiño Dest,Milan,22,19
+United States,Defender,Walker Zimmerman,Nashville SC,29,33
+United States,Midfielder,Tyler Adams,Leeds United,23,32
+United States,Defender,Antonee Robinson,Fulham,25,29
+United States,Midfielder,Yunus Musah,Valencia,19,19
+United States,Forward,Giovanni Reyna,Borussia Dortmund,20,14
+United States,Midfielder,Weston McKennie,Juventus,24,37
+United States,Forward,Jesús Ferreira,FC Dallas,21,15
+United States,Forward,Christian Pulisic,Chelsea,24,52
+United States,Forward,Brenden Aaronson,Leeds United,22,24
+United States,Goalkeeper,Ethan Horvath,Luton Town,27,8
+United States,Defender,Tim Ream,Fulham,35,46
+United States,Midfielder,Luca de la Torre,Celta Vigo,24,12
+United States,Defender,Aaron Long,New York Red Bulls,30,29
+United States,Forward,Jordan Morris,Seattle Sounders FC,28,49
+United States,Midfielder,Cristian Roldan,Seattle Sounders FC,27,32
+United States,Defender,Shaq Moore,Nashville SC,26,15
+United States,Forward,Haji Wright,Antalyaspor,24,3
+United States,Defender,Cameron Carter-Vickers,Celtic,24,11
+United States,Forward,Timothy Weah,Lille,22,25
+United States,Defender,DeAndre Yedlin,Inter Miami CF,29,75
+United States,Midfielder,Kellyn Acosta,Los Angeles FC,27,53
+United States,Forward,Josh Sargent,Norwich City,22,20
+United States,Goalkeeper,Sean Johnson,New York City FC,33,10
+United States,Defender,Joe Scally,Borussia Mönchengladbach,19,3
+Wales,Goalkeeper,Wayne Hennessey,Nottingham Forest,35,106
+Wales,Defender,Chris Gunter,AFC Wimbledon,33,109
+Wales,Defender,Neco Williams,Nottingham Forest,21,23
+Wales,Defender,Ben Davies,Tottenham Hotspur,29,74
+Wales,Defender,Chris Mepham,Bournemouth,25,33
+Wales,Defender,Joe Rodon,Rennes,25,30
+Wales,Midfielder,Joe Allen,Swansea City,32,72
+Wales,Midfielder,Harry Wilson,Fulham,25,39
+Wales,Forward,Brennan Johnson,Nottingham Forest,21,15
+Wales,Midfielder,Aaron Ramsey,Nice,31,75
+Wales,Forward,Gareth Bale,Los Angeles FC,33,108
+Wales,Goalkeeper,Danny Ward,Leicester City,29,26
+Wales,Forward,Kieffer Moore,Bournemouth,30,28
+Wales,Defender,Connor Roberts,Burnley,27,41
+Wales,Defender,Ethan Ampadu,Spezia,22,37
+Wales,Midfielder,Joe Morrell,Portsmouth,25,30
+Wales,Defender,Tom Lockyer,Luton Town,27,14
+Wales,Midfielder,Jonny Williams,Swindon Town,29,33
+Wales,Forward,Mark Harris,Cardiff City,23,5
+Wales,Forward,Daniel James,Fulham,25,38
+Wales,Goalkeeper,Adam Davies,Sheffield United,30,4
+Wales,Midfielder,Sorba Thomas,Huddersfield Town,23,6
+Wales,Midfielder,Dylan Levitt,Dundee United,22,13
+Wales,Defender,Ben Cabango,Swansea City,22,5
+Wales,Midfielder,Rubin Colwill,Cardiff City,20,7
+Wales,Midfielder,Matthew Smith,Milton Keynes Dons,22,19
+Argentina,Goalkeeper,Franco Armani,River Plate,36,18
+Argentina,Defender,Juan Foyth,Villarreal,24,16
+Argentina,Defender,Nicolás Tagliafico,Lyon,30,42
+Argentina,Defender,Gonzalo Montiel,Sevilla,25,18
+Argentina,Midfielder,Leandro Paredes,Juventus,28,46
+Argentina,Defender,Germán Pezzella,Real Betis,31,32
+Argentina,Midfielder,Rodrigo De Paul,Atlético Madrid,28,44
+Argentina,Midfielder,Marcos Acuña,Sevilla,31,43
+Argentina,Forward,Julián Álvarez,Manchester City,22,12
+Argentina,Forward,Lionel Messi,Paris Saint-Germain,35,165
+Argentina,Forward,Ángel Di María,Juventus,34,124
+Argentina,Goalkeeper,Gerónimo Rulli,Villarreal,30,4
+Argentina,Defender,Cristian Romero,Tottenham Hotspur,24,12
+Argentina,Midfielder,Exequiel Palacios,Bayer Leverkusen,24,20
+Argentina,Forward,Ángel Correa,Atlético Madrid,27,22
+Argentina,Midfielder,Thiago Almada,Atlanta United FC,21,1
+Argentina,Midfielder,Papu Gómez,Sevilla,34,15
+Argentina,Midfielder,Guido Rodríguez,Real Betis,28,26
+Argentina,Defender,Nicolás Otamendi,Benfica,34,93
+Argentina,Midfielder,Alexis Mac Allister,Brighton & Hove Albion,23,8
+Argentina,Forward,Paulo Dybala,Roma,29,34
+Argentina,Forward,Lautaro Martínez,Internazionale,25,40
+Argentina,Goalkeeper,Emiliano Martínez,Aston Villa,30,19
+Argentina,Midfielder,Enzo Fernández,Benfica,21,3
+Argentina,Defender,Lisandro Martínez,Manchester United,24,10
+Argentina,Defender,Nahuel Molina,Atlético Madrid,24,20
+Mexico,Goalkeeper,Alfredo Talavera,Juárez,40,40
+Mexico,Defender,Néstor Araujo,América,31,63
+Mexico,Defender,César Montes,Monterrey,25,30
+Mexico,Defender,Edson Álvarez,Ajax,25,58
+Mexico,Defender,Johan Vásquez,Cremonese,24,7
+Mexico,Defender,Gerardo Arteaga,Genk,24,17
+Mexico,Midfielder,Luis Romo,Monterrey,27,27
+Mexico,Midfielder,Carlos Rodríguez,Cruz Azul,25,36
+Mexico,Forward,Raúl Jiménez,Wolverhampton Wanderers,31,95
+Mexico,Forward,Alexis Vega,Guadalajara,24,22
+Mexico,Forward,Rogelio Funes Mori,Monterrey,31,16
+Mexico,Goalkeeper,Rodolfo Cota,León,35,8
+Mexico,Goalkeeper,Guillermo Ochoa,América,37,131
+Mexico,Midfielder,Érick Gutiérrez,PSV Eindhoven,27,34
+Mexico,Defender,Héctor Moreno,Monterrey,34,128
+Mexico,Midfielder,Héctor Herrera,Houston Dynamo FC,32,102
+Mexico,Forward,Orbelín Pineda,AEK Athens,26,50
+Mexico,Midfielder,Andrés Guardado,Real Betis,36,178
+Mexico,Defender,Jorge Sánchez,Ajax,24,26
+Mexico,Forward,Henry Martín,América,30,27
+Mexico,Forward,Uriel Antuna,Cruz Azul,25,36
+Mexico,Forward,Hirving Lozano,Napoli,27,60
+Mexico,Defender,Jesús Gallardo,Monterrey,28,78
+Mexico,Midfielder,Luis Chávez,Pachuca,26,9
+Mexico,Forward,Roberto Alvarado,Guadalajara,24,31
+Mexico,Defender,Kevin Álvarez,Pachuca,23,8
+Poland,Goalkeeper,Wojciech Szczęsny,Juventus,32,66
+Poland,Defender,Matty Cash,Aston Villa,25,7
+Poland,Defender,Artur Jędrzejczyk,Legia Warsaw,35,40
+Poland,Defender,Mateusz Wieteska,Clermont,25,2
+Poland,Defender,Jan Bednarek,Aston Villa,26,45
+Poland,Midfielder,Krystian Bielik,Birmingham City,24,5
+Poland,Forward,Arkadiusz Milik,Juventus,28,64
+Poland,Midfielder,Damian Szymański,AEK Athens,27,9
+Poland,Forward,Robert Lewandowski,Barcelona,34,134
+Poland,Midfielder,Grzegorz Krychowiak,Al-Shabab,32,94
+Poland,Midfielder,Kamil Grosicki,Pogoń Szczecin,34,87
+Poland,Goalkeeper,Łukasz Skorupski,Bologna,31,8
+Poland,Midfielder,Jakub Kamiński,VfL Wolfsburg,20,4
+Poland,Defender,Jakub Kiwior,Spezia,22,5
+Poland,Defender,Kamil Glik,Benevento,34,99
+Poland,Forward,Karol Świderski,Charlotte FC,25,18
+Poland,Midfielder,Szymon Żurkowski,Fiorentina,25,7
+Poland,Defender,Bartosz Bereszyński,Sampdoria,30,46
+Poland,Midfielder,Sebastian Szymański,Feyenoord,23,18
+Poland,Midfielder,Piotr Zieliński,Napoli,28,74
+Poland,Midfielder,Nicola Zalewski,Roma,20,7
+Poland,Goalkeeper,Kamil Grabara,Copenhagen,23,1
+Poland,Forward,Krzysztof Piątek,Salernitana,27,25
+Poland,Midfielder,Przemysław Frankowski,Lens,27,26
+Poland,Defender,Robert Gumny,FC Augsburg,24,5
+Poland,Midfielder,Michał Skóraś,Lech Poznań,22,1
+Saudi Arabia,Goalkeeper,Mohammed Al-Rubaie,Al-Ahli,25,7
+Saudi Arabia,Defender,Sultan Al-Ghannam,Al-Nassr,28,24
+Saudi Arabia,Defender,Abdullah Madu,Al-Nassr,29,15
+Saudi Arabia,Defender,Abdulelah Al-Amri,Al-Nassr,25,20
+Saudi Arabia,Defender,Ali Al-Bulaihi,Al-Hilal,32,37
+Saudi Arabia,Defender,Mohammed Al-Breik,Al-Hilal,30,40
+Saudi Arabia,Midfielder,Salman Al-Faraj,Al-Hilal,33,70
+Saudi Arabia,Midfielder,Abdulellah Al-Malki,Al-Hilal,28,27
+Saudi Arabia,Forward,Firas Al-Buraikan,Al-Fateh,22,26
+Saudi Arabia,Forward,Salem Al-Dawsari,Al-Hilal,31,71
+Saudi Arabia,Forward,Saleh Al-Shehri,Al-Hilal,29,20
+Saudi Arabia,Defender,Saud Abdulhamid,Al-Hilal,23,23
+Saudi Arabia,Defender,Yasser Al-Shahrani,Al-Hilal,30,72
+Saudi Arabia,Midfielder,Abdullah Otayf,Al-Hilal,30,45
+Saudi Arabia,Midfielder,Ali Al-Hassan,Al-Nassr,25,13
+Saudi Arabia,Midfielder,Sami Al-Najei,Al-Nassr,25,17
+Saudi Arabia,Defender,Hassan Al-Tambakti,Al-Shabab,23,19
+Saudi Arabia,Midfielder,Nawaf Al-Abed,Al-Shabab,32,55
+Saudi Arabia,Forward,Hattan Bahebri,Al-Shabab,30,41
+Saudi Arabia,Forward,Abdulrahman Al-Aboud,Al-Ittihad,27,3
+Saudi Arabia,Goalkeeper,Mohammed Al-Owais,Al-Hilal,31,42
+Saudi Arabia,Goalkeeper,Nawaf Al-Aqidi,Al-Nassr,22,0
+Saudi Arabia,Midfielder,Mohamed Kanno,Al-Hilal,28,38
+Saudi Arabia,Midfielder,Nasser Al-Dawsari,Al-Hilal,23,10
+Saudi Arabia,Forward,Haitham Asiri,Al-Ahli,21,8
+Saudi Arabia,Midfielder,Riyadh Sharahili,Abha,29,5
+Australia,Goalkeeper,Mathew Ryan,Copenhagen,30,75
+Australia,Defender,Miloš Degenek,Columbus Crew,28,38
+Australia,Defender,Nathaniel Atkinson,Heart of Midlothian,23,5
+Australia,Defender,Kye Rowles,Heart of Midlothian,24,3
+Australia,Defender,Fran Karačić,Brescia,26,11
+Australia,Forward,Marco Tilio,Melbourne City,21,5
+Australia,Forward,Mathew Leckie,Melbourne City,31,73
+Australia,Defender,Bailey Wright,Sunderland,30,27
+Australia,Forward,Jamie Maclaren,Melbourne City,29,26
+Australia,Midfielder,Ajdin Hrustic,Hellas Verona,26,20
+Australia,Forward,Awer Mabil,Cádiz,27,29
+Australia,Goalkeeper,Andrew Redmayne,Sydney FC,33,4
+Australia,Midfielder,Aaron Mooy,Celtic,32,53
+Australia,Midfielder,Riley McGree,Middlesbrough,24,11
+Australia,Forward,Mitchell Duke,Fagiano Okayama,31,21
+Australia,Defender,Aziz Behich,Dundee United,31,53
+Australia,Midfielder,Cameron Devlin,Heart of Midlothian,24,1
+Australia,Goalkeeper,Danny Vukovic,Central Coast Mariners,37,4
+Australia,Defender,Harry Souttar,Stoke City,24,10
+Australia,Defender,Thomas Deng,Albirex Niigata,25,2
+Australia,Forward,Garang Kuol,Central Coast Mariners,18,1
+Australia,Midfielder,Jackson Irvine,FC St. Pauli,29,49
+Australia,Forward,Craig Goodwin,Adelaide United,30,10
+Australia,Defender,Joel King,OB,22,4
+Australia,Forward,Jason Cummings,Central Coast Mariners,27,1
+Australia,Midfielder,Keanu Baccus,St Mirren,24,1
+Denmark,Goalkeeper,Kasper Schmeichel,Nice,36,86
+Denmark,Defender,Joachim Andersen,Crystal Palace,26,19
+Denmark,Defender,Victor Nelsson,Galatasaray,24,7
+Denmark,Defender,Simon Kjær,Milan,33,121
+Denmark,Defender,Joakim Mæhle,Atalanta,25,31
+Denmark,Defender,Andreas Christensen,Barcelona,26,58
+Denmark,Midfielder,Mathias Jensen,Brentford,26,20
+Denmark,Midfielder,Thomas Delaney,Sevilla,31,71
+Denmark,Forward,Martin Braithwaite,Espanyol,31,62
+Denmark,Midfielder,Christian Eriksen,Manchester United,30,117
+Denmark,Midfielder,Andreas Skov Olsen,Club Brugge,22,23
+Denmark,Forward,Kasper Dolberg,Sevilla,25,37
+Denmark,Defender,Rasmus Kristensen,Leeds United,25,10
+Denmark,Midfielder,Mikkel Damsgaard,Brentford,22,18
+Denmark,Midfielder,Christian Nørgaard,Brentford,28,17
+Denmark,Goalkeeper,Oliver Christensen,Hertha BSC,23,1
+Denmark,Defender,Jens Stryger Larsen,Trabzonspor,31,49
+Denmark,Defender,Daniel Wass,Brøndby,33,44
+Denmark,Forward,Jonas Wind,VfL Wolfsburg,23,15
+Denmark,Forward,Yussuf Poulsen,RB Leipzig,28,68
+Denmark,Forward,Andreas Cornelius,Copenhagen,29,41
+Denmark,Goalkeeper,Frederik Rønnow,Union Berlin,30,8
+Denmark,Midfielder,Pierre-Emile Højbjerg,Tottenham Hotspur,27,60
+Denmark,Midfielder,Robert Skov,1899 Hoffenheim,26,11
+Denmark,Midfielder,Jesper Lindstrøm,Eintracht Frankfurt,22,6
+Denmark,Defender,Alexander Bah,Benfica,24,4
+France,Goalkeeper,Hugo Lloris,Tottenham Hotspur,35,139
+France,Defender,Benjamin Pavard,Bayern Munich,26,46
+France,Defender,Axel Disasi,Monaco,24,0
+France,Defender,Raphaël Varane,Manchester United,29,87
+France,Defender,Jules Koundé,Barcelona,24,12
+France,Midfielder,Matteo Guendouzi,Marseille,23,6
+France,Forward,Antoine Griezmann,Atlético Madrid,31,110
+France,Midfielder,Aurélien Tchouaméni,Real Madrid,22,14
+France,Forward,Olivier Giroud,Milan,36,114
+France,Forward,Kylian Mbappé,Paris Saint-Germain,23,59
+France,Forward,Ousmane Dembélé,Barcelona,25,28
+France,Forward,Randal Kolo Muani,Eintracht Frankfurt,23,2
+France,Midfielder,Youssouf Fofana,Monaco,23,2
+France,Midfielder,Adrien Rabiot,Juventus,27,29
+France,Midfielder,Jordan Veretout,Marseille,29,5
+France,Goalkeeper,Steve Mandanda,Rennes,37,34
+France,Defender,William Saliba,Arsenal,21,7
+France,Defender,Dayot Upamecano,Bayern Munich,24,7
+France,Forward,Karim Benzema,Real Madrid,34,97
+France,Forward,Kingsley Coman,Bayern Munich,26,40
+France,Defender,Lucas Hernandez,Bayern Munich,26,32
+France,Defender,Theo Hernandez,Milan,25,7
+France,Goalkeeper,Alphonse Areola,West Ham United,29,5
+France,Defender,Ibrahima Konaté,Liverpool,23,2
+France,Midfielder,Eduardo Camavinga,Real Madrid,20,4
+France,Forward,Marcus Thuram,Borussia Mönchengladbach,25,4
+Tunisia,Goalkeeper,Aymen Mathlouthi,Étoile du Sahel,38,73
+Tunisia,Defender,Bilel Ifa,Kuwait SC,32,37
+Tunisia,Defender,Montassar Talbi,Lorient,24,23
+Tunisia,Defender,Yassine Meriah,Espérance de Tunis,29,61
+Tunisia,Midfielder,Nader Ghandri,Club Africain,27,8
+Tunisia,Defender,Dylan Bronn,Salernitana,27,36
+Tunisia,Forward,Youssef Msakni,Al-Arabi,32,88
+Tunisia,Midfielder,Hannibal Mejbri,Birmingham City,19,19
+Tunisia,Forward,Issam Jebali,OB,30,10
+Tunisia,Forward,Wahbi Khazri,Montpellier,31,72
+Tunisia,Forward,Taha Yassine Khenissi,Kuwait SC,30,48
+Tunisia,Defender,Ali Maâloul,Al Ahly,32,83
+Tunisia,Midfielder,Ferjani Sassi,Al-Duhail,30,78
+Tunisia,Midfielder,Aïssa Laïdouni,Ferencváros,25,25
+Tunisia,Midfielder,Mohamed Ali Ben Romdhane,Espérance de Tunis,23,23
+Tunisia,Goalkeeper,Aymen Dahmen,CS Sfaxien,25,5
+Tunisia,Midfielder,Ellyes Skhiri,1. FC Köln,27,49
+Tunisia,Midfielder,Ghailene Chaalali,Espérance de Tunis,28,31
+Tunisia,Forward,Seifeddine Jaziri,Zamalek,29,29
+Tunisia,Defender,Mohamed Dräger,Luzern,26,34
+Tunisia,Defender,Wajdi Kechrida,Atromitos,27,19
+Tunisia,Goalkeeper,Bechir Ben Saïd,US Monastir,29,10
+Tunisia,Forward,Naïm Sliti,Al-Ettifaq,30,69
+Tunisia,Defender,Ali Abdi,Caen,28,10
+Tunisia,Forward,Anis Ben Slimane,Brøndby,21,25
+Tunisia,Goalkeeper,Mouez Hassen,Club Africain,27,20
+Costa Rica,Goalkeeper,Keylor Navas,Paris Saint-Germain,35,107
+Costa Rica,Midfielder,Daniel Chacón,Cartaginés,21,8
+Costa Rica,Defender,Juan Pablo Vargas,Millonarios,27,12
+Costa Rica,Defender,Keysher Fuller,Herediano,28,31
+Costa Rica,Midfielder,Celso Borges,Alajuelense,34,155
+Costa Rica,Defender,Óscar Duarte,Al-Wehda,33,71
+Costa Rica,Forward,Anthony Contreras,Herediano,22,9
+Costa Rica,Defender,Bryan Oviedo,Real Salt Lake,32,76
+Costa Rica,Midfielder,Jewison Bennette,Sunderland,18,7
+Costa Rica,Midfielder,Bryan Ruiz,Alajuelense,37,146
+Costa Rica,Forward,Johan Venegas,Alajuelense,33,82
+Costa Rica,Forward,Joel Campbell,León,30,119
+Costa Rica,Midfielder,Gerson Torres,Herediano,25,13
+Costa Rica,Midfielder,Youstin Salas,Saprissa,26,4
+Costa Rica,Defender,Francisco Calvo,Konyaspor,30,75
+Costa Rica,Defender,Carlos Martínez,San Carlos,23,7
+Costa Rica,Midfielder,Yeltsin Tejeda,Herediano,30,73
+Costa Rica,Goalkeeper,Esteban Alvarado,Herediano,33,25
+Costa Rica,Defender,Kendall Waston,Saprissa,34,63
+Costa Rica,Midfielder,Brandon Aguilera,Guanacasteca,19,4
+Costa Rica,Midfielder,Douglas López,Herediano,24,3
+Costa Rica,Defender,Rónald Matarrita,FC Cincinnati,28,52
+Costa Rica,Goalkeeper,Patrick Sequeira,Lugo,23,2
+Costa Rica,Midfielder,Roan Wilson,Municipal Grecia,20,3
+Costa Rica,Midfielder,Anthony Hernández,Puntarenas,21,3
+Costa Rica,Midfielder,Álvaro Zamora,Saprissa,20,3
+Germany,Goalkeeper,Manuel Neuer,Bayern Munich,36,114
+Germany,Defender,Antonio Rüdiger,Real Madrid,29,54
+Germany,Defender,David Raum,RB Leipzig,24,12
+Germany,Defender,Matthias Ginter,SC Freiburg,28,47
+Germany,Defender,Thilo Kehrer,West Ham United,26,23
+Germany,Midfielder,Joshua Kimmich,Bayern Munich,27,71
+Germany,Forward,Kai Havertz,Chelsea,23,31
+Germany,Midfielder,Leon Goretzka,Bayern Munich,27,45
+Germany,Forward,Niclas Füllkrug,Werder Bremen,29,1
+Germany,Forward,Serge Gnabry,Bayern Munich,27,36
+Germany,Midfielder,Mario Götze,Eintracht Frankfurt,30,63
+Germany,Goalkeeper,Kevin Trapp,Eintracht Frankfurt,32,6
+Germany,Midfielder,Thomas Müller,Bayern Munich,33,118
+Germany,Midfielder,Jamal Musiala,Bayern Munich,19,17
+Germany,Defender,Niklas Süle,Borussia Dortmund,27,42
+Germany,Defender,Lukas Klostermann,RB Leipzig,26,19
+Germany,Midfielder,Julian Brandt,Borussia Dortmund,26,39
+Germany,Midfielder,Jonas Hofmann,Borussia Mönchengladbach,30,17
+Germany,Midfielder,Leroy Sané,Bayern Munich,26,48
+Germany,Defender,Christian Günter,SC Freiburg,29,7
+Germany,Midfielder,İlkay Gündoğan,Manchester City,32,63
+Germany,Goalkeeper,Marc-André ter Stegen,Barcelona,30,30
+Germany,Defender,Nico Schlotterbeck,Borussia Dortmund,22,6
+Germany,Forward,Karim Adeyemi,Borussia Dortmund,20,4
+Germany,Defender,Armel Bella-Kotchap,Southampton,20,2
+Germany,Forward,Youssoufa Moukoko,Borussia Dortmund,18,1
+Japan,Goalkeeper,Eiji Kawashima,Strasbourg,39,95
+Japan,Defender,Miki Yamane,Kawasaki Frontale,28,15
+Japan,Defender,Shogo Taniguchi,Kawasaki Frontale,31,14
+Japan,Defender,Ko Itakura,Borussia Mönchengladbach,25,13
+Japan,Defender,Yuto Nagatomo,FC Tokyo,36,138
+Japan,Midfielder,Wataru Endo,VfB Stuttgart,29,43
+Japan,Midfielder,Gaku Shibasaki,Leganés,30,60
+Japan,Midfielder,Ritsu Dōan,SC Freiburg,24,29
+Japan,Midfielder,Kaoru Mitoma,Brighton & Hove Albion,25,9
+Japan,Midfielder,Takumi Minamino,Monaco,27,44
+Japan,Midfielder,Takefusa Kubo,Real Sociedad,21,20
+Japan,Goalkeeper,Shūichi Gonda,Shimizu S-Pulse,33,34
+Japan,Midfielder,Hidemasa Morita,Sporting CP,27,17
+Japan,Midfielder,Junya Ito,Reims,29,38
+Japan,Midfielder,Daichi Kamada,Eintracht Frankfurt,26,22
+Japan,Defender,Takehiro Tomiyasu,Arsenal,24,29
+Japan,Midfielder,Ao Tanaka,Fortuna Düsseldorf,24,15
+Japan,Forward,Takuma Asano,VfL Bochum,28,37
+Japan,Defender,Hiroki Sakai,Urawa Red Diamonds,32,72
+Japan,Forward,Shuto Machino,Shonan Bellmare,23,4
+Japan,Forward,Ayase Ueda,Cercle Brugge,24,11
+Japan,Defender,Maya Yoshida,Schalke 04,34,122
+Japan,Goalkeeper,Daniel Schmidt,Sint-Truiden,30,11
+Japan,Midfielder,Yuki Soma,Nagoya Grampus,25,8
+Japan,Forward,Daizen Maeda,Celtic,25,8
+Japan,Defender,Hiroki Ito,VfB Stuttgart,23,6
+Spain,Goalkeeper,Robert Sánchez,Brighton & Hove Albion,25,2
+Spain,Defender,César Azpilicueta,Chelsea,33,42
+Spain,Defender,Eric García,Barcelona,21,19
+Spain,Defender,Pau Torres,Villarreal,25,22
+Spain,Midfielder,Sergio Busquets,Barcelona,34,139
+Spain,Midfielder,Marcos Llorente,Atlético Madrid,27,17
+Spain,Forward,Álvaro Morata,Atlético Madrid,30,57
+Spain,Midfielder,Koke,Atlético Madrid,30,68
+Spain,Midfielder,Gavi,Barcelona,18,13
+Spain,Forward,Marco Asensio,Real Madrid,26,31
+Spain,Forward,Ferran Torres,Barcelona,22,31
+Spain,Forward,Nico Williams,Athletic Bilbao,20,3
+Spain,Goalkeeper,David Raya,Brentford,27,2
+Spain,Defender,Alejandro Balde,Barcelona,19,0
+Spain,Defender,Hugo Guillamón,Valencia,22,3
+Spain,Midfielder,Rodri,Manchester City,26,35
+Spain,Forward,Yeremy Pino,Villarreal,20,7
+Spain,Defender,Jordi Alba,Barcelona,33,87
+Spain,Midfielder,Carlos Soler,Paris Saint-Germain,25,12
+Spain,Defender,Dani Carvajal,Real Madrid,30,31
+Spain,Forward,Dani Olmo,RB Leipzig,24,25
+Spain,Forward,Pablo Sarabia,Paris Saint-Germain,30,25
+Spain,Goalkeeper,Unai Simón,Athletic Bilbao,25,27
+Spain,Defender,Aymeric Laporte,Manchester City,28,16
+Spain,Forward,Ansu Fati,Barcelona,20,5
+Spain,Midfielder,Pedri,Barcelona,19,14
+Belgium,Goalkeeper,Thibaut Courtois,Real Madrid,30,97
+Belgium,Defender,Toby Alderweireld,Antwerp,33,124
+Belgium,Defender,Arthur Theate,Rennes,22,4
+Belgium,Defender,Wout Faes,Leicester City,24,1
+Belgium,Defender,Jan Vertonghen,Anderlecht,35,142
+Belgium,Midfielder,Axel Witsel,Atlético Madrid,33,127
+Belgium,Midfielder,Kevin De Bruyne,Manchester City,31,94
+Belgium,Midfielder,Youri Tielemans,Leicester City,25,55
+Belgium,Forward,Romelu Lukaku,Internazionale,29,102
+Belgium,Forward,Eden Hazard,Real Madrid,31,123
+Belgium,Forward,Yannick Carrasco,Atlético Madrid,29,60
+Belgium,Goalkeeper,Simon Mignolet,Club Brugge,34,35
+Belgium,Goalkeeper,Koen Casteels,VfL Wolfsburg,30,4
+Belgium,Forward,Dries Mertens,Galatasaray,35,107
+Belgium,Midfielder,Thomas Meunier,Borussia Dortmund,31,59
+Belgium,Midfielder,Thorgan Hazard,Borussia Dortmund,29,45
+Belgium,Forward,Leandro Trossard,Brighton & Hove Albion,27,21
+Belgium,Midfielder,Amadou Onana,Everton,21,2
+Belgium,Defender,Leander Dendoncker,Aston Villa,27,29
+Belgium,Midfielder,Hans Vanaken,Club Brugge,30,23
+Belgium,Midfielder,Timothy Castagne,Leicester City,26,26
+Belgium,Forward,Charles De Ketelaere,Milan,21,10
+Belgium,Forward,Michy Batshuayi,Fenerbahçe,29,48
+Belgium,Forward,Loïs Openda,Lens,22,5
+Belgium,Forward,Jérémy Doku,Rennes,20,11
+Belgium,Defender,Zeno Debast,Anderlecht,19,3
+Canada,Goalkeeper,Dayne St. Clair,Minnesota United FC,25,2
+Canada,Defender,Alistair Johnston,CF Montréal,24,30
+Canada,Defender,Sam Adekugbe,Hatayspor,27,34
+Canada,Defender,Kamal Miller,CF Montréal,25,29
+Canada,Defender,Steven Vitória,Chaves,35,35
+Canada,Midfielder,Samuel Piette,CF Montréal,28,66
+Canada,Midfielder,Stephen Eustáquio,Porto,25,26
+Canada,Midfielder,Liam Fraser,Deinze,24,15
+Canada,Forward,Lucas Cavallini,Vancouver Whitecaps FC,29,34
+Canada,Midfielder,Junior Hoilett,Reading,32,50
+Canada,Forward,Tajon Buchanan,Club Brugge,23,26
+Canada,Forward,Iké Ugbo,Troyes,24,8
+Canada,Midfielder,Atiba Hutchinson,Beşiktaş,39,98
+Canada,Midfielder,Mark-Anthony Kaye,Toronto FC,27,38
+Canada,Midfielder,Ismaël Koné,CF Montréal,20,6
+Canada,Goalkeeper,James Pantemis,CF Montréal,25,0
+Canada,Forward,Cyle Larin,Club Brugge,27,55
+Canada,Goalkeeper,Milan Borjan,Red Star Belgrade,35,68
+Canada,Forward,Alphonso Davies,Bayern Munich,22,34
+Canada,Forward,Jonathan David,Lille,22,35
+Canada,Midfielder,Jonathan Osorio,Toronto FC,30,57
+Canada,Defender,Richie Laryea,Toronto FC,27,34
+Canada,Midfielder,Liam Millar,Basel,23,16
+Canada,Midfielder,David Wotherspoon,St Johnstone,32,10
+Canada,Defender,Derek Cornelius,Panetolikos,24,14
+Canada,Defender,Joel Waterman,CF Montréal,26,2
+Croatia,Goalkeeper,Dominik Livaković,Dinamo Zagreb,27,34
+Croatia,Defender,Josip Stanišić,Bayern Munich,22,7
+Croatia,Defender,Borna Barišić,Rangers,30,28
+Croatia,Forward,Ivan Perišić,Tottenham Hotspur,33,116
+Croatia,Defender,Martin Erlić,Sassuolo,24,4
+Croatia,Defender,Dejan Lovren,Zenit Saint Petersburg,33,72
+Croatia,Midfielder,Lovro Majer,Rennes,24,11
+Croatia,Midfielder,Mateo Kovačić,Chelsea,28,84
+Croatia,Forward,Andrej Kramarić,1899 Hoffenheim,31,74
+Croatia,Midfielder,Luka Modrić,Real Madrid,37,155
+Croatia,Midfielder,Marcelo Brozović,Internazionale,30,77
+Croatia,Goalkeeper,Ivo Grbić,Atlético Madrid,26,2
+Croatia,Midfielder,Nikola Vlašić,Torino,25,42
+Croatia,Forward,Marko Livaja,Hajduk Split,29,14
+Croatia,Midfielder,Mario Pašalić,Atalanta,27,43
+Croatia,Forward,Bruno Petković,Dinamo Zagreb,28,23
+Croatia,Forward,Ante Budimir,Osasuna,31,15
+Croatia,Forward,Mislav Oršić,Dinamo Zagreb,29,21
+Croatia,Defender,Borna Sosa,VfB Stuttgart,24,8
+Croatia,Defender,Joško Gvardiol,RB Leipzig,20,12
+Croatia,Defender,Domagoj Vida,AEK Athens,33,100
+Croatia,Defender,Josip Juranović,Celtic,27,21
+Croatia,Goalkeeper,Ivica Ivušić,Osijek,27,5
+Croatia,Defender,Josip Šutalo,Dinamo Zagreb,22,3
+Croatia,Midfielder,Luka Sučić,Red Bull Salzburg,20,4
+Croatia,Midfielder,Kristijan Jakić,Eintracht Frankfurt,25,4
+Morocco,Goalkeeper,Yassine Bounou,Sevilla,31,46
+Morocco,Defender,Achraf Hakimi,Paris Saint-Germain,24,54
+Morocco,Defender,Noussair Mazraoui,Bayern Munich,25,15
+Morocco,Midfielder,Sofyan Amrabat,Fiorentina,26,39
+Morocco,Defender,Nayef Aguerd,West Ham United,26,22
+Morocco,Defender,Romain Saïss,Beşiktaş,32,66
+Morocco,Midfielder,Hakim Ziyech,Chelsea,29,43
+Morocco,Midfielder,Azzedine Ounahi,Angers,22,10
+Morocco,Forward,Abderrazak Hamdallah,Al-Ittihad,31,18
+Morocco,Midfielder,Anass Zaroury,Burnley,22,1
+Morocco,Forward,Abdelhamid Sabiri,Sampdoria,25,2
+Morocco,Goalkeeper,Munir Mohamedi,Al-Wehda,33,43
+Morocco,Midfielder,Ilias Chair,Queens Park Rangers,25,11
+Morocco,Midfielder,Zakaria Aboukhlal,Toulouse,22,12
+Morocco,Midfielder,Selim Amallah,Standard Liège,26,24
+Morocco,Forward,Abde Ezzalzouli,Osasuna,20,2
+Morocco,Midfielder,Sofiane Boufal,Angers,29,32
+Morocco,Defender,Jawad El Yamiq,Valladolid,30,12
+Morocco,Forward,Youssef En-Nesyri,Sevilla,25,50
+Morocco,Defender,Achraf Dari,Brest,23,4
+Morocco,Forward,Walid Cheddira,Bari,24,2
+Morocco,Goalkeeper,Ahmed Reda Tagnaouti,Wydad AC,26,3
+Morocco,Midfielder,Bilal El Khannous,Genk,18,0
+Morocco,Defender,Badr Benoun,Qatar SC,29,3
+Morocco,Defender,Yahia Attiyat Allah,Wydad AC,27,2
+Morocco,Midfielder,Yahya Jabrane,Wydad AC,31,5
+Brazil,Goalkeeper,Alisson,Liverpool,30,57
+Brazil,Defender,Danilo,Juventus,31,46
+Brazil,Defender,Thiago Silva,Chelsea,38,109
+Brazil,Defender,Marquinhos,Paris Saint-Germain,28,71
+Brazil,Midfielder,Casemiro,Manchester United,30,65
+Brazil,Defender,Alex Sandro,Juventus,31,37
+Brazil,Midfielder,Lucas Paquetá,West Ham United,25,35
+Brazil,Midfielder,Fred,Manchester United,29,28
+Brazil,Forward,Richarlison,Tottenham Hotspur,25,38
+Brazil,Forward,Neymar,Paris Saint-Germain,30,121
+Brazil,Forward,Raphinha,Barcelona,25,11
+Brazil,Goalkeeper,Weverton,Palmeiras,34,8
+Brazil,Defender,Dani Alves,UNAM,39,124
+Brazil,Defender,Éder Militão,Real Madrid,24,23
+Brazil,Midfielder,Fabinho,Liverpool,29,28
+Brazil,Defender,Alex Telles,Sevilla,29,8
+Brazil,Midfielder,Bruno Guimarães,Newcastle United,25,8
+Brazil,Forward,Gabriel Jesus,Arsenal,25,56
+Brazil,Forward,Antony,Manchester United,22,11
+Brazil,Forward,Vinícius Júnior,Real Madrid,22,16
+Brazil,Forward,Rodrygo,Real Madrid,21,7
+Brazil,Midfielder,Éverton Ribeiro,Flamengo,33,21
+Brazil,Goalkeeper,Ederson,Manchester City,29,18
+Brazil,Defender,Bremer,Juventus,25,1
+Brazil,Forward,Pedro,Flamengo,25,2
+Brazil,Forward,Gabriel Martinelli,Arsenal,21,3
+Cameroon,Goalkeeper,Simon Ngapandouetnbu,Marseille,19,0
+Cameroon,Defender,Jerome Ngom Mbekeli,Colombe Sportive,24,2
+Cameroon,Defender,Nicolas Nkoulou,Aris,32,79
+Cameroon,Defender,Christopher Wooh,Rennes,21,4
+Cameroon,Midfielder,Gaël Ondoua,Hannover 96,27,4
+Cameroon,Forward,Moumi Ngamaleu,Dynamo Moscow,28,42
+Cameroon,Midfielder,Georges-Kévin Nkoudou,Beşiktaş,27,3
+Cameroon,Midfielder,André-Frank Zambo Anguissa,Napoli,27,44
+Cameroon,Forward,Jean-Pierre Nsame,Young Boys,29,4
+Cameroon,Forward,Vincent Aboubakar,Al-Nassr,30,92
+Cameroon,Forward,Christian Bassogog,Shanghai Shenhua,27,44
+Cameroon,Forward,Karl Toko Ekambi,Lyon,30,52
+Cameroon,Forward,Eric Maxim Choupo-Moting,Bayern Munich,33,70
+Cameroon,Midfielder,Samuel Gouet,Mechelen,24,22
+Cameroon,Midfielder,Pierre Kunde,Olympiacos,27,33
+Cameroon,Goalkeeper,Devis Epassy,Abha,29,5
+Cameroon,Defender,Olivier Mbaizo,Philadelphia Union,25,11
+Cameroon,Midfielder,Martin Hongla,Hellas Verona,24,20
+Cameroon,Defender,Collins Fai,Al-Tai,30,53
+Cameroon,Forward,Bryan Mbeumo,Brentford,23,4
+Cameroon,Defender,Jean-Charles Castelletto,Nantes,27,15
+Cameroon,Midfielder,Olivier Ntcham,Swansea City,26,4
+Cameroon,Goalkeeper,André Onana,Internazionale,26,34
+Cameroon,Defender,Enzo Ebosse,Udinese,23,3
+Cameroon,Defender,Nouhou Tolo,Seattle Sounders FC,25,19
+Cameroon,Midfielder,Souaibou Marou,Coton Sport,21,3
+Serbia,Goalkeeper,Marko Dmitrović,Sevilla,30,19
+Serbia,Defender,Strahinja Pavlović,Red Bull Salzburg,21,22
+Serbia,Defender,Strahinja Eraković,Red Star Belgrade,21,2
+Serbia,Defender,Nikola Milenković,Fiorentina,25,39
+Serbia,Defender,Miloš Veljković,Werder Bremen,27,21
+Serbia,Midfielder,Nemanja Maksimović,Getafe,27,40
+Serbia,Forward,Nemanja Radonjić,Torino,26,36
+Serbia,Midfielder,Nemanja Gudelj,Sevilla,31,49
+Serbia,Forward,Aleksandar Mitrović,Fulham,28,76
+Serbia,Forward,Dušan Tadić,Ajax,34,91
+Serbia,Forward,Luka Jović,Fiorentina,24,29
+Serbia,Goalkeeper,Predrag Rajković,Mallorca,27,28
+Serbia,Defender,Stefan Mitrović,Getafe,32,35
+Serbia,Midfielder,Andrija Živković,PAOK,26,29
+Serbia,Defender,Srđan Babić,Almería,26,2
+Serbia,Midfielder,Saša Lukić,Torino,26,32
+Serbia,Midfielder,Filip Kostić,Juventus,30,50
+Serbia,Forward,Dušan Vlahović,Juventus,22,17
+Serbia,Midfielder,Uroš Račić,Braga,24,9
+Serbia,Midfielder,Sergej Milinković-Savić,Lazio,27,36
+Serbia,Forward,Filip Đuričić,Sampdoria,30,37
+Serbia,Midfielder,Darko Lazović,Hellas Verona,32,26
+Serbia,Goalkeeper,Vanja Milinković-Savić,Torino,25,7
+Serbia,Midfielder,Ivan Ilić,Hellas Verona,21,6
+Serbia,Defender,Filip Mladenović,Legia Warsaw,31,20
+Serbia,Midfielder,Marko Grujić,Porto,26,18
+Switzerland,Goalkeeper,Yann Sommer,Borussia Mönchengladbach,33,77
+Switzerland,Defender,Edimilson Fernandes,Mainz 05,26,22
+Switzerland,Defender,Silvan Widmer,Mainz 05,29,34
+Switzerland,Defender,Nico Elvedi,Borussia Mönchengladbach,26,41
+Switzerland,Defender,Manuel Akanji,Manchester City,27,43
+Switzerland,Midfielder,Denis Zakaria,Chelsea,26,43
+Switzerland,Forward,Breel Embolo,Monaco,25,59
+Switzerland,Midfielder,Remo Freuler,Nottingham Forest,30,49
+Switzerland,Forward,Haris Seferovic,Galatasaray,30,89
+Switzerland,Midfielder,Granit Xhaka,Arsenal,30,107
+Switzerland,Defender,Renato Steffen,Lugano,31,28
+Switzerland,Goalkeeper,Jonas Omlin,Montpellier,28,4
+Switzerland,Defender,Ricardo Rodriguez,Torino,30,100
+Switzerland,Midfielder,Michel Aebischer,Bologna,25,12
+Switzerland,Midfielder,Djibril Sow,Eintracht Frankfurt,25,32
+Switzerland,Midfielder,Christian Fassnacht,Young Boys,29,16
+Switzerland,Forward,Ruben Vargas,FC Augsburg,24,27
+Switzerland,Defender,Eray Cömert,Valencia,24,10
+Switzerland,Forward,Noah Okafor,Red Bull Salzburg,22,9
+Switzerland,Midfielder,Fabian Frei,Basel,33,22
+Switzerland,Goalkeeper,Gregor Kobel,Borussia Dortmund,24,3
+Switzerland,Defender,Fabian Schär,Newcastle United,30,73
+Switzerland,Midfielder,Xherdan Shaqiri,Chicago Fire FC,31,109
+Switzerland,Goalkeeper,Philipp Köhn,Red Bull Salzburg,24,0
+Switzerland,Midfielder,Fabian Rieder,Young Boys,20,0
+Switzerland,Midfielder,Ardon Jashari,Luzern,20,1
+Ghana,Goalkeeper,Lawrence Ati-Zigi,St. Gallen,25,11
+Ghana,Defender,Tariq Lamptey,Brighton & Hove Albion,22,2
+Ghana,Defender,Denis Odoi,Club Brugge,34,4
+Ghana,Defender,Mohammed Salisu,Southampton,23,3
+Ghana,Midfielder,Thomas Partey,Arsenal,29,40
+Ghana,Midfielder,Elisha Owusu,Gent,25,3
+Ghana,Midfielder,Abdul Fatawu Issahaku,Sporting CP,18,13
+Ghana,Midfielder,Daniel-Kofi Kyereh,SC Freiburg,26,15
+Ghana,Forward,Jordan Ayew,Crystal Palace,31,84
+Ghana,Forward,André Ayew,Al-Sadd,32,110
+Ghana,Midfielder,Osman Bukari,Red Star Belgrade,23,7
+Ghana,Goalkeeper,Ibrahim Danlad,Asante Kotoko,19,4
+Ghana,Midfielder,Daniel Afriyie,Hearts of Oak,21,7
+Ghana,Defender,Gideon Mensah,Auxerre,24,12
+Ghana,Defender,Joseph Aidoo,Celta Vigo,27,11
+Ghana,Goalkeeper,Abdul Manaf Nurudeen,Eupen,23,2
+Ghana,Defender,Baba Rahman,Reading,28,48
+Ghana,Defender,Daniel Amartey,Leicester City,27,46
+Ghana,Forward,Iñaki Williams,Athletic Bilbao,28,3
+Ghana,Midfielder,Mohammed Kudus,Ajax,22,18
+Ghana,Midfielder,Salis Abdul Samed,Lens,22,1
+Ghana,Midfielder,Kamaldeen Sulemana,Rennes,20,13
+Ghana,Defender,Alexander Djiku,Strasbourg,28,18
+Ghana,Midfielder,Kamal Sowah,Club Brugge,22,1
+Ghana,Forward,Antoine Semenyo,Bristol City,22,4
+Ghana,Defender,Alidu Seidu,Clermont,22,4
+Portugal,Goalkeeper,Rui Patrício,Roma,34,105
+Portugal,Defender,Diogo Dalot,Manchester United,23,7
+Portugal,Defender,Pepe,Porto,39,129
+Portugal,Defender,Rúben Dias,Manchester City,25,40
+Portugal,Defender,Raphaël Guerreiro,Borussia Dortmund,28,57
+Portugal,Midfielder,João Palhinha,Fulham,27,15
+Portugal,Forward,Cristiano Ronaldo,Manchester United,37,191
+Portugal,Midfielder,Bruno Fernandes,Manchester United,28,49
+Portugal,Forward,André Silva,RB Leipzig,27,52
+Portugal,Forward,Bernardo Silva,Manchester City,28,73
+Portugal,Forward,João Félix,Atlético Madrid,23,24
+Portugal,Goalkeeper,José Sá,Wolverhampton Wanderers,29,0
+Portugal,Defender,Danilo Pereira,Paris Saint-Germain,31,63
+Portugal,Midfielder,William Carvalho,Real Betis,30,76
+Portugal,Forward,Rafael Leão,Milan,23,11
+Portugal,Midfielder,Vitinha,Paris Saint-Germain,22,5
+Portugal,Midfielder,João Mário,Benfica,29,53
+Portugal,Midfielder,Rúben Neves,Wolverhampton Wanderers,25,32
+Portugal,Defender,Nuno Mendes,Paris Saint-Germain,20,17
+Portugal,Defender,João Cancelo,Manchester City,28,37
+Portugal,Forward,Ricardo Horta,Braga,28,6
+Portugal,Goalkeeper,Diogo Costa,Porto,23,7
+Portugal,Midfielder,Matheus Nunes,Wolverhampton Wanderers,24,9
+Portugal,Defender,António Silva,Benfica,19,1
+Portugal,Midfielder,Otávio,Porto,27,8
+Portugal,Forward,Gonçalo Ramos,Benfica,21,1
+South Korea,Goalkeeper,Kim Seung-gyu,Al-Shabab,32,67
+South Korea,Defender,Yoon Jong-gyu,FC Seoul,24,4
+South Korea,Defender,Kim Jin-su,Jeonbuk Hyundai Motors,30,61
+South Korea,Defender,Kim Min-jae,Napoli,26,44
+South Korea,Midfielder,Jung Woo-young,Al-Sadd,32,66
+South Korea,Midfielder,Hwang In-beom,Olympiacos,26,37
+South Korea,Midfielder,Son Heung-min,Tottenham Hotspur,30,104
+South Korea,Midfielder,Paik Seung-ho,Jeonbuk Hyundai Motors,25,14
+South Korea,Forward,Cho Gue-sung,Jeonbuk Hyundai Motors,24,16
+South Korea,Midfielder,Lee Jae-sung,Mainz 05,30,64
+South Korea,Midfielder,Hwang Hee-chan,Wolverhampton Wanderers,26,49
+South Korea,Goalkeeper,Song Bum-keun,Jeonbuk Hyundai Motors,25,1
+South Korea,Midfielder,Son Jun-ho,Shandong Taishan,30,15
+South Korea,Defender,Hong Chul,Daegu FC,32,46
+South Korea,Defender,Kim Moon-hwan,Jeonbuk Hyundai Motors,27,22
+South Korea,Forward,Hwang Ui-jo,Olympiacos,30,49
+South Korea,Midfielder,Na Sang-ho,FC Seoul,26,24
+South Korea,Midfielder,Lee Kang-in,Mallorca,21,6
+South Korea,Defender,Kim Young-gwon,Ulsan Hyundai,32,96
+South Korea,Defender,Kwon Kyung-won,Gamba Osaka,30,28
+South Korea,Goalkeeper,Jo Hyeon-woo,Ulsan Hyundai,31,22
+South Korea,Midfielder,Kwon Chang-hoon,Gimcheon Sangmu,28,42
+South Korea,Defender,Kim Tae-hwan,Ulsan Hyundai,33,19
+South Korea,Defender,Cho Yu-min,Daejeon Hana Citizen,26,4
+South Korea,Midfielder,Jeong Woo-yeong,SC Freiburg,23,9
+South Korea,Midfielder,Song Min-kyu,Jeonbuk Hyundai Motors,23,13
+Uruguay,Goalkeeper,Fernando Muslera,Galatasaray,36,133
+Uruguay,Defender,José Giménez,Atlético Madrid,27,78
+Uruguay,Defender,Diego Godín,Vélez Sarsfield,36,159
+Uruguay,Defender,Ronald Araújo,Barcelona,23,12
+Uruguay,Midfielder,Matías Vecino,Lazio,31,62
+Uruguay,Midfielder,Rodrigo Bentancur,Tottenham Hotspur,25,51
+Uruguay,Midfielder,Nicolás de la Cruz,River Plate,25,17
+Uruguay,Forward,Facundo Pellistri,Manchester United,20,7
+Uruguay,Forward,Luis Suárez,Nacional,35,134
+Uruguay,Midfielder,Giorgian de Arrascaeta,Flamengo,28,40
+Uruguay,Forward,Darwin Núñez,Liverpool,23,13
+Uruguay,Goalkeeper,Sebastián Sosa,Independiente,36,1
+Uruguay,Defender,Guillermo Varela,Flamengo,29,9
+Uruguay,Midfielder,Lucas Torreira,Galatasaray,26,40
+Uruguay,Midfielder,Federico Valverde,Real Madrid,24,44
+Uruguay,Defender,Mathías Olivera,Napoli,25,8
+Uruguay,Defender,Matías Viña,Roma,25,26
+Uruguay,Forward,Maxi Gómez,Trabzonspor,26,27
+Uruguay,Defender,Sebastián Coates,Sporting CP,32,47
+Uruguay,Forward,Facundo Torres,Orlando City SC,22,10
+Uruguay,Forward,Edinson Cavani,Valencia,35,133
+Uruguay,Defender,Martín Cáceres,LA Galaxy,35,115
+Uruguay,Goalkeeper,Sergio Rochet,Nacional,29,8
+Uruguay,Midfielder,Agustín Canobbio,Athletico Paranaense,24,3
+Uruguay,Midfielder,Manuel Ugarte,Sporting CP,21,6
+Uruguay,Defender,José Luis Rodríguez,Nacional,25,0

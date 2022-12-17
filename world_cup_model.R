@@ -15,10 +15,20 @@ if(sum(as.numeric(!packages %in% installed.packages())) != 0){
 
 # Reading the world cup dataset ------------------------------------------------
 world_cup <- read.csv2(file = 'world_cup_data.csv', header = TRUE)
+world_cup_22 <- read.csv2(file = 'world_cup_22_data.csv', header = TRUE)
+
 world_cup$winner <- as.factor(world_cup$winner)
 
 world_cup <- na.omit(world_cup)
 
+# world_cup$stats_score <- scale(world_cup$home_team_stats_score/
+#   world_cup$away_team_stats_score)
+# world_cup$ranking_fifa <- scale(world_cup$home_team_ranking/
+#   world_cup$away_team_ranking)
+# world_cup$perform_hist <- scale(exp(world_cup$home_team_perform_hist)/
+#   exp(world_cup$away_team_perform_hist))
+# world_cup$wc_perform <- scale(exp(world_cup$home_team_wc_perform)/
+#   exp(world_cup$away_team_wc_perform))
 
 # Multinomial Logistic regression ----------------------------------------------
 
@@ -33,12 +43,16 @@ wc_train <- world_cup[bool_train,]
 wc_test  <- world_cup[!bool_train,]
 
 # Model estimation - function 'multinom' from package 'nnet'
-wc_model <- multinom(formula = winner ~ 
-                       home_team_stats_score + away_team_stats_score + 
+wc_model <- multinom(formula = winner ~
+                       home_team_stats_score + away_team_stats_score +
                        home_team_ranking + away_team_ranking +
-                       home_team_perform_hist + away_team_perform_hist + 
-                       home_team_wc_perform + away_team_wc_perform, 
+                       home_team_perform_hist + away_team_perform_hist +
+                       home_team_wc_perform + away_team_wc_perform,
                      data = wc_train)
+
+# wc_model <- multinom(formula = winner ~ 
+#                        stats_score + ranking_fifa + perform_hist + 
+#                        wc_perform, data = wc_train)
 
 # Model parameters
 summary(wc_model)
@@ -75,6 +89,7 @@ round((pnorm(abs(zWald_wc_model), lower.tail = F) * 2), 4)
 wc_model_step <- step(object = wc_model, 
                 k = qchisq(p = .05, df = 1, lower.tail = F))
 
+
 # Model effectiveness - Train Data ---------------------------------------------
 
 # Adding results from the model to the train dataset 
@@ -87,7 +102,7 @@ wc_train %>%
   kable_styling(bootstrap_options = "striped", 
                 full_width = F, 
                 font_size = 22)
-
+detach(wc_train)
 attach(wc_train)
 # Overall efficiency of 'wc_model'
 oe_wc_model_train <- as.data.frame.matrix(table(prediction, winner))
@@ -133,5 +148,56 @@ oe_wc_model_test %>%
 # Confusion matrix (real values in column and predict values in row)
 accuracy <- (round((sum(diag(table(winner, prediction))) / 
                             sum(table(winner, prediction))), 2))
+
+accuracy
+
+
+# World Cup 2022 Prediction ----------------------------------------------------
+
+# Adding results from the model to the dataset 
+world_cup_22$prediction <- predict(wc_model_step, newdata = world_cup_22, 
+                              type = "class")
+
+world_cup_22 %>%
+  select(home_team, away_team, prediction) %>% 
+  kable() %>%
+  kable_styling(bootstrap_options = "striped", 
+                full_width = F, 
+                font_size = 22)
+
+group <- list()
+i = 1
+j=2
+for(i in 1:length(unique(world_cup_22$Group))){
+
+  group[[i]] <- as_tibble(unique(subset(world_cup_22, 
+                              Group == unique(sort(world_cup_22$Group))[i] , 
+                              select = home_team)))
+  for (j in 1:length(group[[i]])){
+    group[[i]]$points <- world_cup_22$prediction[
+      world_cup_22$home_team == group[[i]][j,]] == 'home_team'
+  }
+  
+  
+}
+
+
+
+
+detach(wc_test)
+attach(world_cup_22)
+
+# Overall efficiency of 'wc_model'
+oe_wc_model_test <- as.data.frame.matrix(table(prediction, winner))
+
+oe_wc_model_test %>%
+  kable() %>%
+  kable_styling(bootstrap_options = "striped", 
+                full_width = F, 
+                font_size = 22)
+
+# Confusion matrix (real values in column and predict values in row)
+accuracy <- (round((sum(diag(table(winner, prediction))) / 
+                      sum(table(winner, prediction))), 2))
 
 accuracy

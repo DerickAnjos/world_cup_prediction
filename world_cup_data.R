@@ -44,6 +44,8 @@ rm(wc22_teams, wc18_teams, wc14_teams, wc10_teams, wc06_teams)
 # Source: FIFA
 wc22_matches <- read.csv2(file = 'wc_22/match_schedule.csv', 
                       header = TRUE)
+wc_22_groups <- read.csv2(file = 'wc_22/wc22_team_group.csv', 
+                          header = TRUE)
 
 # Datasets: Fifa (game) players stats
 # Source: https://sofifa.com
@@ -95,6 +97,13 @@ wc_matches_all$away_team[wc_matches_all$away_team == "United States"] <- "USA"
 wc_matches_all$home_team[wc_matches_all$home_team == "Iran"] <- "IR Iran"
 wc_matches_all$away_team[wc_matches_all$away_team == "Iran"] <- "IR Iran"
 
+# Datasets: World cup 2022 - teams
+colnames(wc22_matches)[3] <- 'home_team'
+colnames(wc22_matches)[4] <- 'away_team'
+
+wc22_matches$home_team[wc22_matches$home_team == "Iran"] <- "IR Iran"
+wc22_matches$away_team[wc22_matches$away_team == "Iran"] <- "IR Iran"
+
 for (i in 1:length(player_stats)){
   
   colnames(wc_teams[[i]])[1] <- 'Nationality'
@@ -138,9 +147,8 @@ wc_matches_all <- subset(wc_matches_all,
 wc_winners <- subset(wc_winners, 
                      select = -c(host, attendance))
 
-# Datasets: World cup 2022 - groups
-wc_groups <- subset(wc_groups, 
-                    select = -c(Flag_Image))
+wc22_matches <- subset(wc22_matches, 
+                       select = -c(match, date))
 
 # Datasets: Fifa (game) players stats
 for (i in 1:length(player_stats)){
@@ -166,7 +174,17 @@ match_results <- subset(match_results,
 wc_analysis <- as.numeric(c('2006', '2010', '2014', '2018', '2022'))
 wc_test_group <- as.numeric(c('2006', '2010', '2014', '2018'))
 
-# Datasets: World cup 2022 - teams
+wc22_group_phase <- wc22_matches[wc22_matches$phase == 'group matches',]
+wc22_round_16 <- wc22_matches[wc22_matches$phase == 'round 16',]
+wc22_quarter <- wc22_matches[wc22_matches$phase == 'quarter-finals',]
+wc22_semi <- wc22_matches[wc22_matches$phase == 'semi-finals',]
+wc22_third <- wc22_matches[wc22_matches$phase == 'third place',]
+wc22_final <- wc22_matches[wc22_matches$phase == 'final',]
+
+wc22_group_phase <- left_join(wc22_group_phase, wc_22_groups, 
+                              c('home_team'= 'Team'))
+
+
 # Defining variable 'winner'
 wc_matches_all$winner <-
   ifelse(wc_matches_all$home_score>wc_matches_all$away_score, 
@@ -185,6 +203,11 @@ for (i in 1:length(wc_analysis)){
   
   wc_matches_hist[[i]] <- 
     subset(wc_matches_all[wc_matches_all$year < wc_analysis[i],])
+  
+  if (i == 5){
+    wc_matches[[i]] <- wc22_group_phase
+  }
+  
 }
 
 # Datasets: Fifa (game) stats
@@ -265,7 +288,7 @@ match_history <- list()
 for (i in 1:length(player_stats)){
   match_history[[i]] <- 
     subset(match_results[match_results$year %in% 
-                           c((wc_analysis[i]-8):wc_analysis[i]),])
+                           c((wc_analysis[i]-16):wc_analysis[i]),])
 }
 
 
@@ -371,8 +394,6 @@ for (i in 1:length(wc_analysis)){
   
 }
 
-
-
 # Fifa ranking
 for (i in 1:length(unique(fifa_ranking$rank_date))){
   
@@ -387,7 +408,7 @@ for (i in 1:length(unique(fifa_ranking$rank_date))){
 }
 
 # Joining the variables to the final dataset
-for (i in 1:length(wc_test_group)){
+for (i in 1:length(wc_analysis)){
   
   wc_matches[[i]] <- left_join(wc_matches[[i]], 
                                wc_teams_over_rank[[i]], 
@@ -406,7 +427,7 @@ for (i in 1:length(wc_test_group)){
 }
 
 # Performance in past matches and in World Cups
-for (i in 1:length(wc_test_group)){
+for (i in 1:length(wc_analysis)){
   
   for (j in 1:nrow(wc_matches[[i]])){
     
@@ -417,9 +438,10 @@ for (i in 1:length(wc_test_group)){
            wc_matches[[i]]$home_team[j] == match_history[[i]]$away_team) & 
           (wc_matches[[i]]$away_team[j] == match_history[[i]]$home_team | 
              wc_matches[[i]]$away_team[j] == match_history[[i]]$away_team)])
-    
-    wc_matches[[i]]$home_team_perform_hist[j] <- 
-      sum(home_team_victories, na.rm = TRUE)/length(home_team_victories)
+  
+    wc_matches[[i]]$home_team_perform_hist[j] <-
+      ifelse(length(home_team_victories) == 0, 0,
+      sum(home_team_victories, na.rm = TRUE)/length(home_team_victories))
     
     away_team_victories <-
       wc_matches[[i]]$away_team[j] == (match_history[[i]]$winner[
@@ -428,8 +450,9 @@ for (i in 1:length(wc_test_group)){
           (wc_matches[[i]]$away_team[j] == match_history[[i]]$home_team | 
              wc_matches[[i]]$away_team[j] == match_history[[i]]$away_team)])
     
-    wc_matches[[i]]$away_team_perform_hist[j] <- 
-      sum(away_team_victories, na.rm = TRUE)/length(away_team_victories)
+    wc_matches[[i]]$away_team_perform_hist[j] <-
+      ifelse(length(away_team_victories) == 0, 0,
+      sum(away_team_victories, na.rm = TRUE)/length(away_team_victories))
     
     # Performance in World Cups
     home_team_wc_perform <-
@@ -460,6 +483,8 @@ for (i in 1:length(wc_test_group)){
 world_cup <- rbind(wc_matches[[1]], wc_matches[[2]], wc_matches[[3]], 
                    wc_matches[[4]])
 
+world_cup_22 <- wc_matches[[5]]
+
 for (i in 1:nrow(world_cup)){
   
   if (world_cup$winner[i] == world_cup$home_team[i]){
@@ -477,4 +502,7 @@ for (i in 1:nrow(world_cup)){
 world_cup$winner <- as.factor(world_cup$winner)
 
 write.table(world_cup, file='world_cup_data.csv', sep=';', dec=',', 
+            row.names=FALSE)
+
+write.table(world_cup_22, file='world_cup_22_data.csv', sep=';', dec=',', 
             row.names=FALSE)

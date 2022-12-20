@@ -147,9 +147,6 @@ wc_matches_all <- subset(wc_matches_all,
 wc_winners <- subset(wc_winners, 
                      select = -c(host, attendance))
 
-wc22_matches <- subset(wc22_matches, 
-                       select = -c(match, date))
-
 # Datasets: Fifa (game) players stats
 for (i in 1:length(player_stats)){
   player_stats[[i]] <- subset(player_stats[[i]], select = -c(ID, Value, Wage))
@@ -181,9 +178,19 @@ wc22_semi <- wc22_matches[wc22_matches$phase == 'semi-finals',]
 wc22_third <- wc22_matches[wc22_matches$phase == 'third place',]
 wc22_final <- wc22_matches[wc22_matches$phase == 'final',]
 
+write.table(wc22_round_16, file='wc_22/wc22_round_16.csv', sep=';', dec=',', 
+            row.names=FALSE)
+write.table(wc22_quarter, file='wc_22/wc22_quarter.csv', sep=';', dec=',', 
+            row.names=FALSE)
+write.table(wc22_semi, file='wc_22/wc22_semi.csv', sep=';', dec=',', 
+            row.names=FALSE)
+write.table(wc22_third, file='wc_22/wc22_third.csv', sep=';', dec=',', 
+            row.names=FALSE)
+write.table(wc22_final, file='wc_22/wc22_final.csv', sep=';', dec=',', 
+            row.names=FALSE)
+
 wc22_group_phase <- left_join(wc22_group_phase, wc_22_groups, 
                               c('home_team'= 'Team'))
-
 
 # Defining variable 'winner'
 wc_matches_all$winner <-
@@ -291,6 +298,9 @@ for (i in 1:length(player_stats)){
                            c((wc_analysis[i]-16):wc_analysis[i]),])
 }
 
+# Saving match history from World Cup 22 for using in the knockout stages
+write.table(match_history[[5]], file='wc_22/match_history_wc_22.csv', sep=';', 
+            dec=',', row.names=FALSE)
 
 # Treating NAs values on dataset -----------------------------------------------
 

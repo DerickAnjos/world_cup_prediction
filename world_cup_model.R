@@ -242,6 +242,47 @@ wc22_third <- read.csv2(file = 'wc_22/wc22_third.csv', header = TRUE)
 wc22_final <- read.csv2(file = 'wc_22/wc22_final.csv', header = TRUE)
 
 
+# Model efficiency on group phase
+wc22_results <- read.csv2(file = 'wc_22/wc22_results.csv', header = TRUE)
+wc22_results$home_score <- substring(wc22_results$Result, first = 1, 
+                                          last = 1)
+wc22_results$away_score <- substring(wc22_results$Result, first = 3, 
+                                          last = 3)
+wc22_results$Result <- NULL
+wc22_results$winner <- 
+  ifelse(wc22_results$home_score > wc22_results$away_score, 
+         'home_team', 
+         ifelse(wc22_results$home_score < wc22_results$away_score,
+                'away_team', 'draw'))
+
+# for (i in 1:nrow(world_cup_22)){
+#   
+#   
+#   
+# }
+
+world_cup_22 <- 
+  left_join(world_cup_22, wc22_results, by = c('home_team', 'away_team'))
+
+detach(wc_test)
+attach(world_cup_22)
+
+# Overall efficiency of 'wc_model'
+oe_wc_model <- as.data.frame.matrix(table(prediction, winner))
+
+oe_wc_model %>%
+  kable() %>%
+  kable_styling(bootstrap_options = "striped", 
+                full_width = F, 
+                font_size = 22)
+
+# Confusion matrix (real values in column and predict values in row)
+accuracy <- (round((sum(diag(table(winner, prediction))) / 
+                      sum(table(winner, prediction))), 2))
+
+accuracy
+
+detach(world_cup_22)
 # Round 16 ---------------------------------------------------------------------
 wc22_round_16$match <- as.character(wc22_round_16$match)
 
@@ -783,7 +824,6 @@ for(i in 1:nrow(wc22_final)){
 }
 
 champions$match <- as.character(champions$match)
-
 
 
 

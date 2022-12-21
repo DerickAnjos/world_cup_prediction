@@ -194,9 +194,9 @@ wc22_group_phase <- left_join(wc22_group_phase, wc_22_groups,
 
 # Defining variable 'winner'
 wc_matches_all$winner <-
-  ifelse(wc_matches_all$home_score>wc_matches_all$away_score, 
+  ifelse(wc_matches_all$home_score > wc_matches_all$away_score, 
          wc_matches_all$home_team, 
-         ifelse(wc_matches_all$home_score<wc_matches_all$away_score,
+         ifelse(wc_matches_all$home_score < wc_matches_all$away_score,
                 wc_matches_all$away_team, 'draw'))
 
 # Defining the object 'wc_matches' and 'wc_matches_hist' (type list).
